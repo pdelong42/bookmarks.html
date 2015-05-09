@@ -1,19 +1,19 @@
-http://mitpress.mit.edu/books/functional-differential-geometry
-http://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics-2
-http://mitpress.mit.edu/books/quantum-algorithms-linear-algebra
-http://mitpress.mit.edu/books/quantum-computing
-http://mitpress.mit.edu/books/functional-differential-geometry
-http://mitpress.mit.edu/books/neither-physics-nor-chemistry
-http://mitpress.mit.edu/books/quantum-computing-without-magic
-http://mitpress.mit.edu/books/janos-bolyai-non-euclidian-geometry-and-nature-space
-http://mitpress.mit.edu/books/abels-proof
-http://mitpress.mit.edu/books/labyrinth
-http://mitpress.mit.edu/books/course-game-theory
-http://mitpress.mit.edu/books/learning-mathematics-and-logo
-http://mitpress.mit.edu/books/fundamentals-mathematics
-http://mitpress.mit.edu/books/fundamentals-mathematics-0
-http://mitpress.mit.edu/books/fundamentals-mathematics-0
-http://mitpress.mit.edu/books/remarks-foundations-mathematics
-http://mitpress.mit.edu/books/types-and-programming-languages
-http://mitpress.mit.edu/books/basic-category-theory-computer-scientists
-http://mitpress.mit.edu/books/category-theory-sciences
+ - http://mitpress.mit.edu/books/functional-differential-geometry
+ - http://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics-2
+ - http://mitpress.mit.edu/books/quantum-algorithms-linear-algebra
+ - http://mitpress.mit.edu/books/quantum-computing
+ - http://mitpress.mit.edu/books/functional-differential-geometry
+ - http://mitpress.mit.edu/books/neither-physics-nor-chemistry
+ - http://mitpress.mit.edu/books/quantum-computing-without-magic
+ - http://mitpress.mit.edu/books/janos-bolyai-non-euclidian-geometry-and-nature-space
+ - http://mitpress.mit.edu/books/abels-proof
+ - http://mitpress.mit.edu/books/labyrinth
+ - http://mitpress.mit.edu/books/course-game-theory
+ - http://mitpress.mit.edu/books/learning-mathematics-and-logo
+ - http://mitpress.mit.edu/books/fundamentals-mathematics
+ - http://mitpress.mit.edu/books/fundamentals-mathematics-0
+ - http://mitpress.mit.edu/books/fundamentals-mathematics-0
+ - http://mitpress.mit.edu/books/remarks-foundations-mathematics
+ - http://mitpress.mit.edu/books/types-and-programming-languages
+ - http://mitpress.mit.edu/books/basic-category-theory-computer-scientists
+ - http://mitpress.mit.edu/books/category-theory-sciences
