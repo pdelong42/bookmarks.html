@@ -6,6 +6,7 @@ Science and tech:
  - http://www.paulgraham.com/articles.html
  - http://david-mcneil.com/
  - https://twitter.com/cmeik
+ - https://twitter.com/codemiller
  - http://daemianmack.com/
  - http://ecmendenhall.github.io/blog/
  - http://juliangamble.com/blog/
