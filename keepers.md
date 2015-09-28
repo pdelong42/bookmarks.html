@@ -1,0 +1,2 @@
+ - http://david-mcneil.com/post/1475458103/implementation-inheritance-in-clojure
+ - http://discuss.joelonsoftware.com/default.asp?joel.3.219431.12

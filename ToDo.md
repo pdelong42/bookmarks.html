@@ -1,0 +1,5 @@
+ - https://github.com/Prismatic/eng-practices/blob/master/clojure/20130926-data-representation.md
+ - http://www.cascading.org/projects/cascading/
+ - https://chisel.eecs.berkeley.edu/
+ - https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud
+ - http://www.poorcharliesalmanack.com/seeking_wisdom.php
