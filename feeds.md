@@ -13,6 +13,7 @@ Science and tech:
  - http://chadfowler.com/
  - http://mechanical-sympathy.blogspot.ch/
  - http://lukego.github.io/
+ - https://xkcd.com/
 
 Frivolous and pop culture:
 
