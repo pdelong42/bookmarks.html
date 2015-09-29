@@ -5,3 +5,5 @@
  - http://www.poorcharliesalmanack.com/seeking_wisdom.php
  - http://groups.csail.mit.edu/mac/users/gjs/6946/
  - http://www.ietf.org/rfc/rfc3875
+ - http://invisible-island.net/xterm/xterm.faq.html
+ - http://lukas.zapletalovi.com/2013/07/hidden-gems-of-xterm.html
