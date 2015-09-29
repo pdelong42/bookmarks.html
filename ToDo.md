@@ -7,3 +7,4 @@
  - http://www.ietf.org/rfc/rfc3875
  - http://invisible-island.net/xterm/xterm.faq.html
  - http://lukas.zapletalovi.com/2013/07/hidden-gems-of-xterm.html
+ - http://mysqlsandbox.net/
