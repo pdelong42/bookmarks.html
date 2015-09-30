@@ -13,8 +13,8 @@ Science and tech:
  - http://www.paulgraham.com/articles.html
  - https://twitter.com/cmeik
  - https://twitter.com/codemiller
- - https://xkcd.com/
 
-Frivolous and pop culture:
+Nerd entertainment:
 
  - https://twitter.com/kibooki
+ - https://xkcd.com/
