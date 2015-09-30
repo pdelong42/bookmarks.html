@@ -8,3 +8,4 @@
  - http://invisible-island.net/xterm/xterm.faq.html
  - http://lukas.zapletalovi.com/2013/07/hidden-gems-of-xterm.html
  - http://mysqlsandbox.net/
+ - http://rr-project.org/
