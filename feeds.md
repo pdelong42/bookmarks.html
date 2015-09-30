@@ -1,18 +1,18 @@
 Science and tech:
 
  - http://bit-player.org/
- - http://www.billconnelly.net/
- - http://littleredcomputer.net/
- - http://www.paulgraham.com/articles.html
- - http://david-mcneil.com/
- - https://twitter.com/cmeik
- - https://twitter.com/codemiller
+ - http://chadfowler.com/
  - http://daemianmack.com/
+ - http://david-mcneil.com/
  - http://ecmendenhall.github.io/blog/
  - http://juliangamble.com/blog/
- - http://chadfowler.com/
- - http://mechanical-sympathy.blogspot.ch/
+ - http://littleredcomputer.net/
  - http://lukego.github.io/
+ - http://mechanical-sympathy.blogspot.ch/
+ - http://www.billconnelly.net/
+ - http://www.paulgraham.com/articles.html
+ - https://twitter.com/cmeik
+ - https://twitter.com/codemiller
  - https://xkcd.com/
 
 Frivolous and pop culture:
