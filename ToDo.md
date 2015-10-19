@@ -12,3 +12,5 @@
  - https://oleksandrmanzyuk.files.wordpress.com/2012/04/paper.pdf
  - http://www.laserfest.org/
  - http://www.keepalived.org/
+ - https://tools.ietf.org/html/rfc3985 Pseudo Wire Emulation Edge-to-Edge (PWE3) Architecture
+ - https://tools.ietf.org/html/rfc4448 Encapsulation Methods for Transport of Ethernet over MPLS Networks
