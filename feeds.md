@@ -13,12 +13,14 @@ Science and tech:
  - http://mechanical-sympathy.blogspot.ch/
  - http://www.billconnelly.net/
  - http://www.paulgraham.com/articles.html
-
- - https://twitter.com/cmeik
-   Someone I stumbled across from a link Dan shared with me.  Seems to be doing interesting stuff in the math and programming spheres.  Though I just discovered he has a website and a blog more substantial than Twitter... (links to come)
-
  - https://twitter.com/codemiller
    RedHat OpenShift by day, and functional programming and women-in-tech evangelist by night (and day too, I suppose...).  Hails from Australia.
+
+ - https://twitter.com/cmeik
+   Someone I stumbled across from a link Dan shared with me.  Seems to be doing interesting stuff in the math and programming spheres.  Though I just discovered he has a website / blog more substantial than Twitter...
+
+ - https://christophermeiklejohn.com/
+   ...which is right here.
 
  - http://www.scottaaronson.com/
    Quantum computing person-who-matters.  I've followed his blog on-and-off for a few years.  He wrote a book on the subject, but I have yet to find-out if it's good.
