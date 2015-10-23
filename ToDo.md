@@ -14,3 +14,4 @@
  - http://www.keepalived.org/
  - https://tools.ietf.org/html/rfc3985 Pseudo Wire Emulation Edge-to-Edge (PWE3) Architecture
  - https://tools.ietf.org/html/rfc4448 Encapsulation Methods for Transport of Ethernet over MPLS Networks
+ - https://tools.ietf.org/html/rfc3945 Generalized Multi-Protocol Label Switching (GMPLS) Architecture

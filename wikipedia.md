@@ -8,6 +8,10 @@ articles to read:
  - https://en.wikipedia.org/wiki/State_of_matter
  - https://en.wikipedia.org/wiki/Emerging_technologies
 
+follow links in references:
+
+ - https://en.wikipedia.org/wiki/Carrier_Ethernet
+
 general topics:
 
  - orbits
