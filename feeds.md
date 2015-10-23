@@ -23,7 +23,7 @@ Science and tech:
    ...which is right here.
 
  - http://www.scottaaronson.com/
-   Quantum computing person-who-matters.  I've followed his blog on-and-off for a few years.  He wrote a book on the subject, but I have yet to find-out if it's good.
+   Quantum computing person-who-matters.  Peter Shor has been known to comment on his blog.  I've followed his blog on-and-off for a few years.  He wrote a book on the subject, but I have yet to find-out if it's good.
 
 Nerd entertainment:
 
