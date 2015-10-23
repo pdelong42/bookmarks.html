@@ -9,3 +9,6 @@
 
  - http://thinking-forth.sourceforge.net/
    Thinking Forth
+
+ - http://www.learndatasci.com/
+   what it says on the tin
