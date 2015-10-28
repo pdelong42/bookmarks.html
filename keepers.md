@@ -5,3 +5,6 @@
 
  - https://www.usenix.org/legacy/event/usenix2000/freenix/full_papers/silvers/silvers_html/
    UBC: An Efficient Unified I/O and Memory Caching Subsystem for NetBSD
+
+ - https://blog.xenproject.org/2014/02/14/ballooning-rebooting-and-the-feature-youve-never-heard-of/
+   Ballooning, rebooting, and the feature you've never heard of

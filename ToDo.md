@@ -12,6 +12,15 @@
  - http://www.laserfest.org/
  - http://www.keepalived.org/
 
+ - http://beetleblocks.com/
+   Scratch for 3D printers
+
+ - http://snap.berkeley.edu/
+   A Scratch-like language
+
+ - https://news.ycombinator.com/item?id=7884551
+   HN thread about Funcitonal Differential Geometry
+
  - https://tools.ietf.org/html/rfc3875
    The Common Gateway Interface (CGI) Version 1.1
 
