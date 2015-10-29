@@ -6,3 +6,6 @@
 
  - https://github.com/littleredcomputer/math
    Scmutils in Clojure
+
+ - https://git-scm.com/doc
+   Git - Documentation

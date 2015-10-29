@@ -8,3 +8,6 @@
 
  - https://blog.xenproject.org/2014/02/14/ballooning-rebooting-and-the-feature-youve-never-heard-of/
    Ballooning, rebooting, and the feature you've never heard of
+
+ - https://git-scm.com/book/en/v2/Git-Tools-Submodules
+   Git - Submodules
