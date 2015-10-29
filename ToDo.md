@@ -12,6 +12,15 @@
  - http://www.laserfest.org/
  - http://www.keepalived.org/
 
+ - http://vickychijwani.me/magit-part-i/
+   follow the references/links at the bottom of the article
+
+ - http://vickychijwani.me/magit-part-ii/
+
+ - http://vickychijwani.me/
+   this is here until I catch-up on the posts of his that I find
+   interesting - after that, I'll move it to feeds
+
  - http://beetleblocks.com/
    Scratch for 3D printers
 
