@@ -44,3 +44,6 @@
 
  - https://tools.ietf.org/html/rfc7233
    Hypertext Transfer Protocol (HTTP/1.1): Range Requests
+
+ - http://blog.juxt.pro/posts/xpath-in-transducers.html
+   Processing documents with transducers
