@@ -47,3 +47,6 @@
 
  - http://blog.juxt.pro/posts/xpath-in-transducers.html
    Processing documents with transducers
+
+ - http://www.codemesh.io/
+   a conference that crossed my radar by way of github
