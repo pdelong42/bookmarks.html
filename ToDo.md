@@ -42,6 +42,9 @@
  - https://tools.ietf.org/html/rfc4448
    Encapsulation Methods for Transport of Ethernet over MPLS Networks
 
+ - https://tools.ietf.org/html/rfc4987
+   TCP SYN Flooding Attacks and Common Mitigations
+
  - https://tools.ietf.org/html/rfc7233
    Hypertext Transfer Protocol (HTTP/1.1): Range Requests
 
@@ -50,3 +53,20 @@
 
  - http://www.codemesh.io/
    a conference that crossed my radar by way of github
+
+ - https://lwn.net/Articles/324989/
+   Nftables: a new packet filtering engine
+
+ - http://lwn.net/Articles/342892/
+   A short history of btrfs
+
+ - https://btrfs.wiki.kernel.org/index.php/SysadminGuide
+   sysadmin guide to btrfs
+
+ - http://www.pixelbeat.org/
+   not sure what this is yet, but it looks useful
+
+ - http://grouper.ieee.org/groups/802/3/trunk_study/tutorial/index.html
+   Tutorial on Link Aggregation and Trunking
+
+ - http://www.simonsfoundation.org/multimedia/mathematical-impressions-the-surprising-menger-sponge-slice/
