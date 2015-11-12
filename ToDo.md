@@ -42,8 +42,8 @@
  - http://lwn.net/Articles/342892/
    A short history of btrfs
 
- - https://btrfs.wiki.kernel.org/index.php/SysadminGuide
-   sysadmin guide to btrfs
+ - http://marc.merlins.org/perso/btrfs/post_2014-05-21_My-Btrfs-Talk-at-Linuxcon-JP-2014.html
+   2014/05/21 My Btrfs Talk at Linuxcon JP 2014
 
  - http://www.pixelbeat.org/
    not sure what this is yet, but it looks useful

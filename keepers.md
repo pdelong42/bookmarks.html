@@ -14,3 +14,6 @@
 
  - https://en.wikipedia.org/wiki/Journal_of_Instrumentation
    revisit this later and follow links
+
+ - https://btrfs.wiki.kernel.org/index.php/SysadminGuide
+   sysadmin guide to btrfs
