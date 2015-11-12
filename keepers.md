@@ -11,3 +11,6 @@
 
  - https://git-scm.com/book/en/v2/Git-Tools-Submodules
    Git - Submodules
+
+ - https://en.wikipedia.org/wiki/Journal_of_Instrumentation
+   revisit this later and follow links

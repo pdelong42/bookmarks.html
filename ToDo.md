@@ -52,3 +52,9 @@
    Tutorial on Link Aggregation and Trunking
 
  - http://www.simonsfoundation.org/multimedia/mathematical-impressions-the-surprising-menger-sponge-slice/
+
+http://stopdisablingselinux.com/
+https://github.com/hfiguiere/no-flash
+
+tagging algorithms for particle physics, and Monte Carlo simulations for evaluating their performance
+http://link.springer.com/article/10.1140/epjc/s10052-012-2022-1/fulltext.html
