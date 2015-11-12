@@ -1,0 +1,17 @@
+https://en.wikipedia.org/wiki/Kaluza%E2%80%93Klein_theory
+https://en.wikipedia.org/wiki/BaBar_experiment
+https://en.wikipedia.org/wiki/Belle_experiment
+https://en.wikipedia.org/wiki/Cyclotron
+https://en.wikipedia.org/wiki/Scoville_scale
+https://en.wikipedia.org/wiki/Eigenmode_expansion
+https://en.wikipedia.org/wiki/High_Precision_Event_Timer
+https://en.wikipedia.org/wiki/Virtual_LAN
+https://en.wikipedia.org/wiki/Completely_Fair_Scheduler
+https://en.wikipedia.org/wiki/Phase-locked_loop
+https://en.wikipedia.org/wiki/CP_violation
+https://en.wikipedia.org/wiki/Semiconductor_detector
+https://en.wikipedia.org/wiki/B-Factory
+https://en.wikipedia.org/wiki/Kaon#Neutral_kaon_mixing
+https://en.wikipedia.org/wiki/B-Bbar_oscillation
+https://en.wikipedia.org/wiki/LHCb
+https://en.wikipedia.org/wiki/Joint_European_Torus
