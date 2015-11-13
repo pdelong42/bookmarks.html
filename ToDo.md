@@ -11,6 +11,8 @@
  - https://oleksandrmanzyuk.files.wordpress.com/2012/04/paper.pdf
  - http://www.laserfest.org/
  - http://www.keepalived.org/
+ - http://c2.com/cgi/wiki?WhyWeHateLisp
+ - http://c2.com/cgi/wiki?WhyWeLoveLisp
 
  - http://vickychijwani.me/magit-part-i/
    follow the references/links at the bottom of the article
