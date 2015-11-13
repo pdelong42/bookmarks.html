@@ -13,6 +13,11 @@
  - http://www.keepalived.org/
  - http://c2.com/cgi/wiki?WhyWeHateLisp
  - http://c2.com/cgi/wiki?WhyWeLoveLisp
+ - http://radar.oreilly.com/2015/03/lets-build-open-source-tensor-libraries-for-data-science.html
+ - http://stopdisablingselinux.com/
+ - https://github.com/hfiguiere/no-flash
+ - http://maryrosecook.com/blog/post/git-from-the-inside-out
+
 
  - http://vickychijwani.me/magit-part-i/
    follow the references/links at the bottom of the article
@@ -57,7 +62,3 @@
 
  - http://link.springer.com/article/10.1140/epjc/s10052-012-2022-1/fulltext.html
    tagging algorithms for particle physics, and Monte Carlo simulations for evaluating their performance
-
-http://stopdisablingselinux.com/
-https://github.com/hfiguiere/no-flash
-http://maryrosecook.com/blog/post/git-from-the-inside-out
