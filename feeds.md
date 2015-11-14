@@ -25,6 +25,7 @@ Science and tech:
  - http://mechanical-sympathy.blogspot.ch/
  - http://www.billconnelly.net/
  - http://www.paulgraham.com/articles.html
+ - https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day/Archive
 
 Nerd entertainment:
 
