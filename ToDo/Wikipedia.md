@@ -32,3 +32,5 @@ https://en.wikipedia.org/wiki/Asynchronous_circuit
 https://en.wikipedia.org/wiki/Dm-crypt
 https://en.wikipedia.org/wiki/Translation_lookaside_buffer
 https://en.wikipedia.org/wiki/Inertial_measurement_unit
+https://en.wikipedia.org/wiki/Q_code
+https://en.wikipedia.org/wiki/Five_by_five
