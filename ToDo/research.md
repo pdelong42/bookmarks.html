@@ -42,3 +42,12 @@
 
  - http://julialang.org/
    julia
+
+ - http://dippl.org/
+   The Design and Implementation of Probabilistic Programming Languages
+
+ - https://probmods.org/
+   Probabilistic Models of Cognition
+
+ - http://mc-stan.org/
+   Stan
