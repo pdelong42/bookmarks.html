@@ -77,3 +77,6 @@
 
  - http://storm.apache.org/
    Apache Storm
+
+ - https://notmuchmail.org/
+   Notmuch -- Just an email system
