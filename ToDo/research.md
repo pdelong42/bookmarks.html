@@ -21,3 +21,9 @@
 
  - https://notmuchmail.org/
    Notmuch -- Just an email system
+
+ - https://www.google.com/webhp?q=university%20of%20new%20south%20wales%20quantum%20computing
+   stuff to follow-up on regarding some recent advances in QC
+
+ - https://www.google.com/search?q=convnet
+   some links to follow regarding Convolutional Neural Nets

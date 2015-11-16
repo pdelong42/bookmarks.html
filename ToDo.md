@@ -55,3 +55,6 @@
 
  - http://www.logstashbook.com/
    The Logstash logo Book
+
+ - https://www.oreilly.com/learning/computational-thinking-just-enough-math
+   watch this video, but have ORA login handy
