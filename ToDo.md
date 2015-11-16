@@ -18,7 +18,6 @@
  - https://github.com/hfiguiere/no-flash
  - http://maryrosecook.com/blog/post/git-from-the-inside-out
 
-
  - http://vickychijwani.me/magit-part-i/
    follow the references/links at the bottom of the article
 
@@ -28,17 +27,11 @@
    this is here until I catch-up on the posts of his that I find
    interesting - after that, I'll move it to feeds
 
- - http://beetleblocks.com/
-   Scratch for 3D printers
-
- - http://snap.berkeley.edu/
-   A Scratch-like language
+ - http://blog.juxt.pro/posts/xpath-in-transducers.html
+   Processing documents with transducers
 
  - https://news.ycombinator.com/item?id=7884551
    HN thread about Funcitonal Differential Geometry
-
- - http://blog.juxt.pro/posts/xpath-in-transducers.html
-   Processing documents with transducers
 
  - http://www.codemesh.io/
    a conference that crossed my radar by way of github
@@ -60,23 +53,5 @@
 
  - http://www.simonsfoundation.org/multimedia/mathematical-impressions-the-surprising-menger-sponge-slice/
 
- - http://link.springer.com/article/10.1140/epjc/s10052-012-2022-1/fulltext.html
-   tagging algorithms for particle physics, and Monte Carlo simulations for evaluating their performance
-
- - http://www.tensorflow.org/
-   TensorFlow is an Open Source Software Library for Machine Intelligence
-
  - http://www.logstashbook.com/
    The Logstash logo Book
-
- - https://cloud.google.com/compute/
-   Google Cloud Platform - Compute Engine
-
- - http://storm.apache.org/documentation/Running-topologies-on-a-production-cluster.html
-   Running Topologies on a Production Cluster
-
- - http://storm.apache.org/
-   Apache Storm
-
- - https://notmuchmail.org/
-   Notmuch -- Just an email system
