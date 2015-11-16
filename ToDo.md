@@ -68,3 +68,6 @@
 
  - http://www.logstashbook.com/
    The Logstash logo Book
+
+ - https://cloud.google.com/compute/
+   Google Cloud Platform - Compute Engine
