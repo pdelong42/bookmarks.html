@@ -1,37 +1,41 @@
-https://en.wikipedia.org/wiki/Kaluza%E2%80%93Klein_theory
-https://en.wikipedia.org/wiki/BaBar_experiment
-https://en.wikipedia.org/wiki/Belle_experiment
-https://en.wikipedia.org/wiki/Cyclotron
-https://en.wikipedia.org/wiki/Scoville_scale
-https://en.wikipedia.org/wiki/Eigenmode_expansion
-https://en.wikipedia.org/wiki/High_Precision_Event_Timer
-https://en.wikipedia.org/wiki/Virtual_LAN
-https://en.wikipedia.org/wiki/Completely_Fair_Scheduler
-https://en.wikipedia.org/wiki/Phase-locked_loop
-https://en.wikipedia.org/wiki/CP_violation
-https://en.wikipedia.org/wiki/Semiconductor_detector
-https://en.wikipedia.org/wiki/B-Factory
-https://en.wikipedia.org/wiki/Kaon#Neutral_kaon_mixing
-https://en.wikipedia.org/wiki/B-Bbar_oscillation
-https://en.wikipedia.org/wiki/LHCb
-https://en.wikipedia.org/wiki/Joint_European_Torus
-https://en.wikipedia.org/wiki/Europa_Multiple-Flyby_Mission
+https://en.wikipedia.org/wiki/Kaluza%E2%80%93Klein_theory (particle physics)
+https://en.wikipedia.org/wiki/BaBar_experiment (particle physics)
+https://en.wikipedia.org/wiki/Belle_experiment (particle physics)
+https://en.wikipedia.org/wiki/Cyclotron (particle physics)
+https://en.wikipedia.org/wiki/Scoville_scale (rating spicyness)
+https://en.wikipedia.org/wiki/Eigenmode_expansion (applied mathematics)
+https://en.wikipedia.org/wiki/High_Precision_Event_Timer (computer architecture)
+https://en.wikipedia.org/wiki/Virtual_LAN (computer networking)
+https://en.wikipedia.org/wiki/Completely_Fair_Scheduler (kernel/systems programming)
+https://en.wikipedia.org/wiki/Phase-locked_loop (electronics)
+https://en.wikipedia.org/wiki/CP_violation (particle physics)
+https://en.wikipedia.org/wiki/Semiconductor_detector (particle physics)
+https://en.wikipedia.org/wiki/B-Factory (particle physics)
+https://en.wikipedia.org/wiki/Kaon#Neutral_kaon_mixing (particle physics)
+https://en.wikipedia.org/wiki/B-Bbar_oscillation (particle physics)
+https://en.wikipedia.org/wiki/LHCb (particle physics)
+https://en.wikipedia.org/wiki/Joint_European_Torus (fusion research)
+https://en.wikipedia.org/wiki/Europa_Multiple-Flyby_Mission (planetary science)
 https://en.wikipedia.org/wiki/Structural_equation_modeling
-https://en.wikipedia.org/wiki/Rotations_in_4-dimensional_Euclidean_space
+https://en.wikipedia.org/wiki/Rotations_in_4-dimensional_Euclidean_space (mathematics)
 https://en.wikipedia.org/wiki/Milankovitch_cycles
 https://en.wikipedia.org/wiki/Curse_of_dimensionality
 https://en.wikipedia.org/wiki/Disruptive_innovation
 https://en.wikipedia.org/wiki/Constructivist_teaching_methods
 https://en.wikipedia.org/wiki/ETH_Zurich
 https://en.wikipedia.org/wiki/Conformal_geometry
-https://en.wikipedia.org/wiki/Rainbow
-https://en.wikipedia.org/wiki/POV-Ray
+https://en.wikipedia.org/wiki/Rainbow (basic physics, optics)
+https://en.wikipedia.org/wiki/POV-Ray (computer graphics)
 https://en.wikipedia.org/wiki/Connection_(mathematics)
-https://en.wikipedia.org/wiki/Structure_from_motion
-https://en.wikipedia.org/wiki/Asynchronous_circuit
+https://en.wikipedia.org/wiki/Structure_from_motion (mapping)
+https://en.wikipedia.org/wiki/Asynchronous_circuit (emerging electronics)
 https://en.wikipedia.org/wiki/Dm-crypt
-https://en.wikipedia.org/wiki/Translation_lookaside_buffer
-https://en.wikipedia.org/wiki/Inertial_measurement_unit
+https://en.wikipedia.org/wiki/Translation_lookaside_buffer (computer architecture)
+https://en.wikipedia.org/wiki/Inertial_measurement_unit (electronics, physics)
 https://en.wikipedia.org/wiki/Q_code
 https://en.wikipedia.org/wiki/Five_by_five
-https://en.wikipedia.org/wiki/General_Perspective_projection
+https://en.wikipedia.org/wiki/General_Perspective_projection (mathematics, mapping)
+https://en.wikipedia.org/wiki/Aerogel (materials science)
+https://en.wikipedia.org/wiki/Raman_spectroscopy
+https://en.wikipedia.org/wiki/Menger_sponge (mathematics)
+https://en.wikipedia.org/wiki/Mie_scattering (related to elecromagnetism)
