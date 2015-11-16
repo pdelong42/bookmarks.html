@@ -62,3 +62,9 @@
 
  - http://link.springer.com/article/10.1140/epjc/s10052-012-2022-1/fulltext.html
    tagging algorithms for particle physics, and Monte Carlo simulations for evaluating their performance
+
+ - http://www.tensorflow.org/
+   TensorFlow is an Open Source Software Library for Machine Intelligence
+
+ - http://www.logstashbook.com/
+   The Logstash logo Book
