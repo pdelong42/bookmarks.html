@@ -27,3 +27,18 @@
 
  - https://www.google.com/search?q=convnet
    some links to follow regarding Convolutional Neural Nets
+
+ - https://github.com/JuliaGeometry
+   JuliaGeometry
+
+ - http://research.microsoft.com/apps/pubs/default.aspx?id=209634
+   LIQUi|>: A Software Design Architecture and Domain-Specific Language for Quantum Computing
+
+ - https://github.com/timholy?tab=repositories
+   someone who seems to be a major contributor to Julia
+
+ - https://github.com/JuliaLang
+   The Julia Language
+
+ - http://julialang.org/
+   julia
