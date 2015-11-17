@@ -40,3 +40,4 @@
  - https://en.wikipedia.org/wiki/Menger_sponge (mathematics)
  - https://en.wikipedia.org/wiki/Mie_scattering (related to elecromagnetism)
  - https://en.wikipedia.org/wiki/Particle_detector
+ - https://en.wikipedia.org/wiki/Emitter-coupled_logic
