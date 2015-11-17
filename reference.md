@@ -12,3 +12,12 @@
 
  - https://upload.wikimedia.org/wikipedia/commons/3/37/Netfilter-packet-flow.svg
    Packet flow in Netfilter and General Networking
+
+ - http://daemianmack.com/magit-cheatsheet.html
+   Magit Cheatsheet
+
+ - http://clojure.org/cheatsheet
+   Clojure 1.7 Cheat Sheet (v32)
+
+ - http://clojure.github.io/clojure/
+   API Overview - Clojure v1.7 (stable)
