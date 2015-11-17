@@ -17,3 +17,9 @@
 
  - https://btrfs.wiki.kernel.org/index.php/SysadminGuide
    sysadmin guide to btrfs
+
+ - https://en.wikipedia.org/wiki/Btrfs
+   follow external links, and look into distributed and NAS filesytems linked in the category box
+
+ - https://lwn.net/Articles/576276/
+   follow links to further installments

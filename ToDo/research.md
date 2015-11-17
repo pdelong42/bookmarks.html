@@ -51,3 +51,6 @@
 
  - http://mc-stan.org/
    Stan
+
+ - http://clojurewerkz.org/
+   ClojureWerkz
