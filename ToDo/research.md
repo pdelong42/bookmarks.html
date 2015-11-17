@@ -54,3 +54,6 @@
 
  - http://clojurewerkz.org/
    ClojureWerkz
+
+ - http://clojure.org/reducers
+   Reducers
