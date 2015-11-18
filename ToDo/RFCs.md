@@ -1,3 +1,5 @@
+ - https://tools.ietf.org/html/rfc3164
+   The BSD syslog Protocol
 
  - https://tools.ietf.org/html/rfc3875
    The Common Gateway Interface (CGI) Version 1.1
@@ -17,4 +19,5 @@
  - https://tools.ietf.org/html/rfc7233
    Hypertext Transfer Protocol (HTTP/1.1): Range Requests
 
-http://www.ietf.org/rfc/rfc3164.txt
+ - https://tools.ietf.org/html/rfc5424
+   The Syslog Protocol
