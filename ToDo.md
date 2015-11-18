@@ -16,7 +16,8 @@
  - http://radar.oreilly.com/2015/03/lets-build-open-source-tensor-libraries-for-data-science.html
  - http://stopdisablingselinux.com/
  - https://github.com/hfiguiere/no-flash
- - http://maryrosecook.com/blog/post/git-from-the-inside-out
+ - http://www.nasa.gov/feature/goddard/hubble-sees-the-wings-of-a-butterfly-the-twin-jet-nebula
+ - http://ls.poly.edu/~jbain/Cat/lectures/01.BranchesofMath.pdf
 
  - http://vickychijwani.me/magit-part-i/
    follow the references/links at the bottom of the article
@@ -67,3 +68,21 @@
 
  - http://www.scholarpedia.org/article/The_ATLAS_experiment
    The ATLAS experiment
+
+ - http://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
+   Markov Chain Monte Carlo Without all the Bullshit
+
+ - http://jeremykun.com/2015/03/09/finding-the-majority-element-of-a-stream/
+   Finding the majority element of a stream
+
+ - http://jeremykun.com/2015/02/16/a-proofless-introduction-to-information-theory/
+   A Proofless Introduction to Information Theory
+
+ - http://maryrosecook.com/blog/post/git-from-the-inside-out
+   Git from the inside out
+
+ - http://joannelovesscience.com/
+   Joanne Loves Science - Science Educator and Communicator
+
+ - https://code.facebook.com/posts/1561127100804165/augmented-traffic-control-a-tool-to-simulate-network-conditions/
+   Augmented Traffic Control: A tool to simulate network conditions
