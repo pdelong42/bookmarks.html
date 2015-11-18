@@ -45,3 +45,16 @@
  - https://en.wikipedia.org/wiki/Scintillator
  - https://en.wikipedia.org/wiki/Gaseous_ionization_detectors
  - https://en.wikipedia.org/wiki/Cherenkov_radiation
+ - https://en.wikipedia.org/wiki/Electroscope
+ - https://en.wikipedia.org/wiki/Dosimeter
+ - https://en.wikipedia.org/wiki/Neutron_detection
+ - https://en.wikipedia.org/wiki/Hermetic_detector
+ - https://en.wikipedia.org/wiki/Compact_Muon_Solenoid
+ - https://en.wikipedia.org/wiki/LHCb
+ - https://en.wikipedia.org/wiki/ALICE:_A_Large_Ion_Collider_Experiment
+ - https://en.wikipedia.org/wiki/Super-Kamiokande
+ - https://en.wikipedia.org/wiki/JEDI
+ - https://en.wikipedia.org/wiki/Counting_efficiency
+ - https://en.wikipedia.org/wiki/Cloud_chamber
+ - https://en.wikipedia.org/wiki/Mauna_Loa
+ - https://en.wikipedia.org/wiki/Thomson_scattering
