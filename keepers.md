@@ -25,4 +25,7 @@
    follow links to further installments
 
  - https://en.wikipedia.org/wiki/ATLAS_experiment
-   follow the external links
+   follow the external links and category-box links
+
+ - http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html
+   "Swarm v. Fleet v. Kubernetes v. Mesos" (a helpful decoder ring)
