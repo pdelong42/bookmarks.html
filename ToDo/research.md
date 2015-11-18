@@ -57,3 +57,6 @@
 
  - http://clojure.org/reducers
    Reducers
+
+ - "Radiation detectors". H. M. Stone Productions, Schloat. Tarrytown, N.Y., Prentice-Hall Media, 1972.
+   cross-referenced from the particle detector article
