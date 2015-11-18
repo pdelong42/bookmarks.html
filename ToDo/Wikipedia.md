@@ -41,3 +41,7 @@
  - https://en.wikipedia.org/wiki/Mie_scattering (related to elecromagnetism)
  - https://en.wikipedia.org/wiki/Particle_detector
  - https://en.wikipedia.org/wiki/Emitter-coupled_logic
+ - https://en.wikipedia.org/wiki/Semiconductor_detector
+ - https://en.wikipedia.org/wiki/Scintillator
+ - https://en.wikipedia.org/wiki/Gaseous_ionization_detectors
+ - https://en.wikipedia.org/wiki/Cherenkov_radiation
