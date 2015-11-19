@@ -86,3 +86,6 @@
 
  - https://code.facebook.com/posts/1561127100804165/augmented-traffic-control-a-tool-to-simulate-network-conditions/
    Augmented Traffic Control: A tool to simulate network conditions
+
+ - http://www.adaptiveoptics.org/
+   seems like it could be interesting

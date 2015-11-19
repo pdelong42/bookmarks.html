@@ -29,3 +29,9 @@
 
  - http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html
    "Swarm v. Fleet v. Kubernetes v. Mesos" (a helpful decoder ring)
+
+ - https://en.wikipedia.org/wiki/Lyot_stop
+   follow links
+
+ - http://opensource.com/life/15/11/audio-format-linux-flac-ogg
+   Yes.  So very yes.  This is why I prefer FLAC.

@@ -58,3 +58,12 @@
  - https://en.wikipedia.org/wiki/Cloud_chamber
  - https://en.wikipedia.org/wiki/Mauna_Loa
  - https://en.wikipedia.org/wiki/Thomson_scattering
+ - https://en.wikipedia.org/wiki/Terrestrial_Planet_Finder
+ - https://en.wikipedia.org/wiki/James_Webb_Space_Telescope
+ - https://en.wikipedia.org/wiki/Hale_Telescope
+ - https://en.wikipedia.org/wiki/Palomar_Observatory
+ - https://en.wikipedia.org/wiki/Solar_and_Heliospheric_Observatory
+ - https://en.wikipedia.org/wiki/Hubble_Space_Telescope
+ - https://en.wikipedia.org/wiki/List_of_solar_telescopes
+ - https://en.wikipedia.org/wiki/Template:Sun_spacecraft
+ - https://en.wikipedia.org/wiki/New_Worlds_Mission
