@@ -92,3 +92,6 @@
 
  - https://github.com/open-source-society/computer-science
    Open Source Society University
+
+ - https://github.com/basecamp/mysql_role_swap
+   (Nearly) Zero interruption mysql maintenance script.
