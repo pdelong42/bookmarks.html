@@ -67,3 +67,6 @@
  - https://en.wikipedia.org/wiki/List_of_solar_telescopes
  - https://en.wikipedia.org/wiki/Template:Sun_spacecraft
  - https://en.wikipedia.org/wiki/New_Worlds_Mission
+ - https://en.wikipedia.org/wiki/Convolutional_neural_network
+ - https://en.wikipedia.org/wiki/Galileo_(spacecraft)
+ - https://en.wikipedia.org/wiki/Applied_Physics_Laboratory
