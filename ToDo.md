@@ -89,3 +89,6 @@
 
  - http://www.adaptiveoptics.org/
    seems like it could be interesting
+
+ - https://github.com/open-source-society/computer-science
+   Open Source Society University
