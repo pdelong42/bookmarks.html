@@ -60,3 +60,7 @@
 
  - "Radiation detectors". H. M. Stone Productions, Schloat. Tarrytown, N.Y., Prentice-Hall Media, 1972.
    cross-referenced from the particle detector article
+
+ - http://www.rit.edu/news/story.php?id=51127
+   follow leads on 'smart dust' and telescopes made of the same, as well as associated image processing techniques
+   (computational photography, radiation-pressure control)
