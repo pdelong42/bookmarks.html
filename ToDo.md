@@ -95,3 +95,6 @@
 
  - https://github.com/basecamp/mysql_role_swap
    (Nearly) Zero interruption mysql maintenance script.
+
+ - http://www.solarcity.com/
+   SolarCity
