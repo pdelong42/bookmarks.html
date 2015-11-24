@@ -15,3 +15,6 @@ Science and tech:
    This is a site that leverages a lot of dynamic web stuff to create
    a bunch of mathematical eye-candy.  I haven't yet figured-out
    whether it's useful or if it's fluff.
+
+ - https://www.google.com/finance
+   Something I should be checking more often than I do.
