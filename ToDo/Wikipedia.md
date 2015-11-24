@@ -70,3 +70,14 @@
  - https://en.wikipedia.org/wiki/Convolutional_neural_network
  - https://en.wikipedia.org/wiki/Galileo_(spacecraft)
  - https://en.wikipedia.org/wiki/Applied_Physics_Laboratory
+ - https://en.wikipedia.org/wiki/Juno_(spacecraft)
+ - https://en.wikipedia.org/wiki/Europa_Jupiter_System_Mission_%E2%80%93_Laplace
+ - https://en.wikipedia.org/wiki/Template:Europa
+ - https://en.wikipedia.org/wiki/Template:Jupiter_spacecraft
+ - https://en.wikipedia.org/wiki/Z_Pulsed_Power_Facility
+ - https://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator
+ - https://en.wikipedia.org/wiki/Battery_(electricity)
+ - https://en.wikipedia.org/wiki/Portal:Topology
+ - https://en.wikipedia.org/wiki/Portal:Energy
+ - https://en.wikipedia.org/wiki/Advanced_Stirling_radioisotope_generator
+ - https://en.wikipedia.org/wiki/Multi-Mission_Radioisotope_Thermoelectric_Generator
