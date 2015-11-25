@@ -1,3 +1,11 @@
+general topics:
+
+ - orbits
+ - batteries
+
+articles to read:
+
+ - https://en.wikipedia.org/wiki/Newton%27s_cradle
  - https://en.wikipedia.org/wiki/Proper_acceleration
  - https://en.wikipedia.org/wiki/CubeSat
  - https://en.wikipedia.org/wiki/Liquid_fluoride_thorium_reactor
@@ -26,6 +34,15 @@
  - https://en.wikipedia.org/wiki/Disruptive_innovation
  - https://en.wikipedia.org/wiki/Constructivist_teaching_methods
  - https://en.wikipedia.org/wiki/ETH_Zurich
+ - https://en.wikipedia.org/wiki/List_of_telescope_types
+ - https://en.wikipedia.org/wiki/Maksutov_telescope
+ - https://en.wikipedia.org/wiki/Superfluidity
+ - https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_condensate
+ - https://en.wikipedia.org/wiki/Fermionic_condensate
+ - https://en.wikipedia.org/wiki/State_of_matter
+ - https://en.wikipedia.org/wiki/Emerging_technologies
+ - https://en.wikipedia.org/wiki/Wallops_Flight_Facility
+ - https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory
  - https://en.wikipedia.org/wiki/Conformal_geometry
  - https://en.wikipedia.org/wiki/Rainbow (basic physics, optics)
  - https://en.wikipedia.org/wiki/POV-Ray (computer graphics)
@@ -87,4 +104,7 @@
  - https://en.wikipedia.org/wiki/Ophthalmoscopy
  - https://en.wikipedia.org/wiki/LASIK
  - https://en.wikipedia.org/wiki/Deformable_mirror
- - https://en.wikipedia.org/wiki/Newton%27s_cradle
+
+follow links in references:
+
+ - https://en.wikipedia.org/wiki/Carrier_Ethernet
