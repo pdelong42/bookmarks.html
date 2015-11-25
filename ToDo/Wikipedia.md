@@ -84,3 +84,7 @@
  - https://en.wikipedia.org/wiki/Portal:Energy
  - https://en.wikipedia.org/wiki/Advanced_Stirling_radioisotope_generator
  - https://en.wikipedia.org/wiki/Multi-Mission_Radioisotope_Thermoelectric_Generator
+ - https://en.wikipedia.org/wiki/Ophthalmoscopy
+ - https://en.wikipedia.org/wiki/LASIK
+ - https://en.wikipedia.org/wiki/Deformable_mirror
+ - https://en.wikipedia.org/wiki/Newton%27s_cradle
