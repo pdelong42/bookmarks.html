@@ -1,3 +1,5 @@
+merge me into ToDo/Wikipedia.md
+
 articles to read:
 
  - https://en.wikipedia.org/wiki/List_of_telescope_types
