@@ -104,6 +104,15 @@ articles to read:
  - https://en.wikipedia.org/wiki/Ophthalmoscopy
  - https://en.wikipedia.org/wiki/LASIK
  - https://en.wikipedia.org/wiki/Deformable_mirror
+ - https://en.wikipedia.org/wiki/2001_Mars_Odyssey
+ - https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens
+ - https://en.wikipedia.org/wiki/Space_Launch_System
+ - https://en.wikipedia.org/wiki/Atlas_V
+ - https://en.wikipedia.org/wiki/Europa_Jupiter_System_Mission_%E2%80%93_Laplace
+ - https://en.wikipedia.org/wiki/Laplace-P
+ - https://en.wikipedia.org/wiki/Europa_Orbiter
+ - https://en.wikipedia.org/wiki/Exploration_of_Jupiter
+ - https://en.wikipedia.org/wiki/Jupiter_Icy_Moon_Explorer
 
 follow links in references:
 
