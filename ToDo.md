@@ -107,3 +107,6 @@
 
  - http://www.mrbeer.com/
    Mr. Beer
+
+ - http://samy.pl/
+   (eponymous)
