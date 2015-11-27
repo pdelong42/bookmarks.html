@@ -110,3 +110,6 @@
 
  - http://samy.pl/
    (eponymous)
+
+ - http://www-cs-faculty.stanford.edu/~uno/mmix.html
+   MMIX 2009
