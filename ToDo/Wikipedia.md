@@ -112,6 +112,7 @@ articles to read:
  - https://en.wikipedia.org/wiki/Europa_Orbiter
  - https://en.wikipedia.org/wiki/Exploration_of_Jupiter
  - https://en.wikipedia.org/wiki/Jupiter_Icy_Moon_Explorer
+ - https://en.wikipedia.org/wiki/Multicast_DNS
 
 follow links in references:
 
