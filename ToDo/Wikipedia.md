@@ -118,3 +118,4 @@ articles to read:
 follow links in references:
 
  - https://en.wikipedia.org/wiki/Carrier_Ethernet
+ - https://en.wikipedia.org/wiki/Orlov_block_allocator
