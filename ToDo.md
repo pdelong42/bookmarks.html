@@ -122,3 +122,8 @@
 
  - https://www.elisascience.org/
    
+ - http://lwn.net/Articles/14633/
+   The Orlov block allocator
+
+ - http://lwn.net/Articles/14447/
+   Orlov block allocator for ext3
