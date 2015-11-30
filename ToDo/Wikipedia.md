@@ -26,7 +26,6 @@ articles to read:
  - https://en.wikipedia.org/wiki/B-Bbar_oscillation (particle physics)
  - https://en.wikipedia.org/wiki/LHCb (particle physics)
  - https://en.wikipedia.org/wiki/Joint_European_Torus (fusion research)
- - https://en.wikipedia.org/wiki/Europa_Multiple-Flyby_Mission (planetary science)
  - https://en.wikipedia.org/wiki/Structural_equation_modeling
  - https://en.wikipedia.org/wiki/Rotations_in_4-dimensional_Euclidean_space (mathematics)
  - https://en.wikipedia.org/wiki/Milankovitch_cycles
