@@ -117,5 +117,8 @@
  - http://momath.org/
    Museum of Mathematics
 
+ - http://lbzip2.org/
+   parallel bzip2 compression utility
+
  - https://www.elisascience.org/
    
