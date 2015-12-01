@@ -117,7 +117,10 @@ articles to read:
  - https://en.wikipedia.org/wiki/Evolved_Laser_Interferometer_Space_Antenna
  - https://en.wikipedia.org/wiki/Mars_Global_Surveyor
  - https://en.wikipedia.org/wiki/K-d_tree
-
-follow links in references:
-
- - https://en.wikipedia.org/wiki/Carrier_Ethernet
+ - https://en.wikipedia.org/wiki/Direct_Stream_Digital
+ - https://en.wikipedia.org/wiki/Delta-sigma_modulation
+ - https://en.wikipedia.org/wiki/Synchronous_optical_networking
+ - https://en.wikipedia.org/wiki/Audio_Video_Bridging
+ - https://en.wikipedia.org/wiki/Ethernet_in_the_first_mile
+ - https://en.wikipedia.org/wiki/IEEE_802.1ad
+ - https://en.wikipedia.org/wiki/IEEE_802.1aq
