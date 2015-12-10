@@ -5,6 +5,7 @@ general topics:
 
 articles to read:
 
+ - https://en.wikipedia.org/wiki/Byte_serving
  - https://en.wikipedia.org/wiki/Newton%27s_cradle
  - https://en.wikipedia.org/wiki/Proper_acceleration
  - https://en.wikipedia.org/wiki/CubeSat
@@ -124,3 +125,5 @@ articles to read:
  - https://en.wikipedia.org/wiki/Ethernet_in_the_first_mile
  - https://en.wikipedia.org/wiki/IEEE_802.1ad
  - https://en.wikipedia.org/wiki/IEEE_802.1aq
+ - https://en.wikipedia.org/wiki/Small_form-factor_pluggable_transceiver
+ - https://en.wikipedia.org/wiki/Whisker_(metallurgy)
