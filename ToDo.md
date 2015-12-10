@@ -131,3 +131,6 @@
 
  - http://imagej.net/Welcome
    ImageJ - An open platform for scientific image analysis
+
+ - http://www.pitheringabout.com/?p=1041
+   Clojure at a Newspaper - Cluster Killers
