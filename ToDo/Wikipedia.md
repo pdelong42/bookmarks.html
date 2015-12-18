@@ -127,3 +127,12 @@ articles to read:
  - https://en.wikipedia.org/wiki/IEEE_802.1aq
  - https://en.wikipedia.org/wiki/Small_form-factor_pluggable_transceiver
  - https://en.wikipedia.org/wiki/Whisker_(metallurgy)
+ - https://en.wikipedia.org/wiki/Chunked_transfer_encoding
+ - https://en.wikipedia.org/wiki/PhoneSat
+ - https://en.wikipedia.org/wiki/Calabi%E2%80%93Yau_manifold
+ - https://en.wikipedia.org/wiki/Magnetorquer
+ - https://en.wikipedia.org/wiki/Star_tracker
+ - https://en.wikipedia.org/wiki/Angular_rate_sensor
+ - https://en.wikipedia.org/wiki/Graphene
+ - https://en.wikipedia.org/wiki/Fullerene
+ - https://en.wikipedia.org/wiki/Graphite

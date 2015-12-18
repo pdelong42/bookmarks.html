@@ -134,3 +134,6 @@
 
  - http://www.pitheringabout.com/?p=1041
    Clojure at a Newspaper - Cluster Killers
+
+ - https://www.masteringemacs.org/
+   Mastering Emacs
