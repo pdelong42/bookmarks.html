@@ -137,3 +137,6 @@
 
  - https://www.masteringemacs.org/
    Mastering Emacs
+
+ - http://www.sv.vt.edu/
+   Laboratory for Scientific Visual Analysis
