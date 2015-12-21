@@ -136,3 +136,7 @@ articles to read:
  - https://en.wikipedia.org/wiki/Graphene
  - https://en.wikipedia.org/wiki/Fullerene
  - https://en.wikipedia.org/wiki/Graphite
+ - https://en.wikipedia.org/wiki/Diffeomorphism
+ - https://en.wikipedia.org/wiki/Holomorphic_function
+ - https://en.wikipedia.org/wiki/Specific_impulse
+ - https://en.wikipedia.org/wiki/Hacking:_The_Art_of_Exploitation
