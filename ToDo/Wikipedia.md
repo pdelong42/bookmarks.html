@@ -140,3 +140,13 @@ articles to read:
  - https://en.wikipedia.org/wiki/Holomorphic_function
  - https://en.wikipedia.org/wiki/Specific_impulse
  - https://en.wikipedia.org/wiki/Hacking:_The_Art_of_Exploitation
+ - https://en.wikipedia.org/wiki/Electrically_powered_spacecraft_propulsion
+ - https://en.wikipedia.org/wiki/Hall-effect_thruster
+ - https://en.wikipedia.org/wiki/Ion_thruster
+ - https://en.wikipedia.org/wiki/Pulsed_plasma_thruster
+ - https://en.wikipedia.org/wiki/Template:Spacecraft_propulsion
+ - https://en.wikipedia.org/wiki/Colloid_thruster
+ - https://en.wikipedia.org/wiki/Resistojet_rocket
+ - https://en.wikipedia.org/wiki/Lunar_IceCube
+ - https://en.wikipedia.org/wiki/Electrodynamic_tether
+ - https://en.wikipedia.org/wiki/Electric_sail
