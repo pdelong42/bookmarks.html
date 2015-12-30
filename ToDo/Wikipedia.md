@@ -150,3 +150,9 @@ articles to read:
  - https://en.wikipedia.org/wiki/Lunar_IceCube
  - https://en.wikipedia.org/wiki/Electrodynamic_tether
  - https://en.wikipedia.org/wiki/Electric_sail
+ - https://en.wikipedia.org/wiki/Solar_sail
+ - https://en.wikipedia.org/wiki/NanoSail-D2
+ - https://en.wikipedia.org/wiki/LightSail-1
+ - https://en.wikipedia.org/wiki/The_Planetary_Society
+ - https://en.wikipedia.org/wiki/Near-Earth_Asteroid_Scout
+ - https://en.wikipedia.org/wiki/Lunar_Flashlight
