@@ -140,3 +140,6 @@
 
  - http://www.sv.vt.edu/
    Laboratory for Scientific Visual Analysis
+
+ - https://tools.ietf.org/rfc/rfc4634.txt
+   US Secure Hash Algorithms (SHA and HMAC-SHA)

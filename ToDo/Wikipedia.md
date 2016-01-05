@@ -157,3 +157,4 @@ articles to read:
  - https://en.wikipedia.org/wiki/Near-Earth_Asteroid_Scout
  - https://en.wikipedia.org/wiki/Lunar_Flashlight
  - https://en.wikipedia.org/wiki/Row_hammer
+ - https://en.wikipedia.org/wiki/Merkle_tree
