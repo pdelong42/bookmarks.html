@@ -163,3 +163,4 @@ articles to read:
  - https://en.wikipedia.org/wiki/Goldstone_Deep_Space_Communications_Complex
  - https://en.wikipedia.org/wiki/(33342)_1998_WT24
  - https://en.wikipedia.org/wiki/Leidenfrost_effect
+ - https://en.wikipedia.org/wiki/Taxicab_geometry
