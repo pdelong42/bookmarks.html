@@ -164,3 +164,4 @@ articles to read:
  - https://en.wikipedia.org/wiki/(33342)_1998_WT24
  - https://en.wikipedia.org/wiki/Leidenfrost_effect
  - https://en.wikipedia.org/wiki/Taxicab_geometry
+ - https://en.wikipedia.org/wiki/Loop-erased_random_walk
