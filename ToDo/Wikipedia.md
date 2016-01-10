@@ -165,3 +165,7 @@ articles to read:
  - https://en.wikipedia.org/wiki/Leidenfrost_effect
  - https://en.wikipedia.org/wiki/Taxicab_geometry
  - https://en.wikipedia.org/wiki/Loop-erased_random_walk
+ - https://en.wikipedia.org/wiki/Colorado_Student_Space_Weather_Experiment
+ - https://en.wikipedia.org/wiki/Antares_A-ONE
+ - https://en.wikipedia.org/wiki/Antares_(rocket)
+ - https://en.wikipedia.org/wiki/PhoneSat
