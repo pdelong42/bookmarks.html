@@ -143,3 +143,9 @@
 
  - https://tools.ietf.org/rfc/rfc4634.txt
    US Secure Hash Algorithms (SHA and HMAC-SHA)
+
+ - http://bl.ocks.org/mbostock
+ - http://bl.ocks.org/mbostock/11357811
+
+ - http://weblog.jamisbuck.org/2011/1/20/maze-generation-wilson-s-algorithm
+ - http://weblog.jamisbuck.org/
