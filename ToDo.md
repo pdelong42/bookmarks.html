@@ -152,3 +152,7 @@
 
  - https://www.dma.org/collection/artwork/utagawa-kuninaga/passerby-enjoying-evening-concert
    "Passerby Enjoying An Evening Concert", by Utagawa Kuninaga
+
+ - http://gigasquidsoftware.com/
+   Squid's Blog
+   (Clojure programmer)
