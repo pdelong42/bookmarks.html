@@ -175,3 +175,8 @@ articles to read:
  - https://en.wikipedia.org/wiki/Musica_universalis
  - https://en.wikipedia.org/wiki/Orbital_mechanics
  - https://en.wikipedia.org/wiki/Interplanetary_Transport_Network
+ - https://en.wikipedia.org/wiki/ESTCube-1
+ - https://en.wikipedia.org/wiki/Flock-1
+ - https://en.wikipedia.org/wiki/InSight
+ - https://en.wikipedia.org/wiki/Mars_Cube_One
+ - https://en.wikipedia.org/wiki/Indian_Space_Research_Organisation
