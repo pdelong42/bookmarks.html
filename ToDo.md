@@ -156,3 +156,7 @@
  - http://gigasquidsoftware.com/
    Squid's Blog
    (Clojure programmer)
+
+ - http://kendru.github.io/
+   Andrew Meredith
+   (Clojure programmer)
