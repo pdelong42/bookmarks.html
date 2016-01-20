@@ -173,3 +173,5 @@ articles to read:
  - https://en.wikipedia.org/wiki/Physical_chemistry
  - https://en.wikipedia.org/wiki/Hermann_von_Helmholtz
  - https://en.wikipedia.org/wiki/Musica_universalis
+ - https://en.wikipedia.org/wiki/Orbital_mechanics
+ - https://en.wikipedia.org/wiki/Interplanetary_Transport_Network
