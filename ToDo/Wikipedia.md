@@ -5,7 +5,6 @@ general topics:
 
 articles to read:
 
- - https://en.wikipedia.org/wiki/Byte_serving
  - https://en.wikipedia.org/wiki/Newton%27s_cradle
  - https://en.wikipedia.org/wiki/Proper_acceleration
  - https://en.wikipedia.org/wiki/Liquid_fluoride_thorium_reactor
