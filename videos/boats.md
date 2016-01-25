@@ -13,3 +13,12 @@ https://tv.nrk.no/serie/hurtigruten-minutt-for-minutt
 https://tv.nrk.no/serie/hurtigruten-365
 
 https://no.wikipedia.org/wiki/Hurtigruten_minutt_for_minutt
+
+https://nrkbeta.no/2011/06/16/hurtigruten-eng/
+https://nrkbeta.no/2011/06/16/hurtigruten/
+
+https://nrkbeta.no/2011/12/21/hurtigrutenbonanza-splitterny-full-hd-nedlasting-bittorrent-hele-sendingen/
+
+http://nl.nrk.no/torrent/hurtigruten/Hurtigruten.x264.1920x1080.NRK2r.torrent
+
+http://nrk.no/hurtigruten/feed.html
