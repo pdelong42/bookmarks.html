@@ -18,7 +18,6 @@ articles to read:
  - https://en.wikipedia.org/wiki/Virtual_LAN (computer networking)
  - https://en.wikipedia.org/wiki/Completely_Fair_Scheduler (kernel/systems programming)
  - https://en.wikipedia.org/wiki/Phase-locked_loop (electronics)
- - https://en.wikipedia.org/wiki/CP_violation (particle physics)
  - https://en.wikipedia.org/wiki/Semiconductor_detector (particle physics)
  - https://en.wikipedia.org/wiki/B-Factory (particle physics)
  - https://en.wikipedia.org/wiki/Kaon#Neutral_kaon_mixing (particle physics)
@@ -190,3 +189,24 @@ articles to read:
  - https://en.wikipedia.org/wiki/W_and_Z_bosons
  - https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_statistics
  - https://en.wikipedia.org/wiki/Fractional_calculus
+ - https://en.wikipedia.org/wiki/CPT_symmetry
+ - https://en.wikipedia.org/wiki/NA48_experiment
+ - https://en.wikipedia.org/wiki/NA62_experiment
+ - https://en.wikipedia.org/wiki/Fermilab
+ - https://en.wikipedia.org/wiki/CERN
+ - https://en.wikipedia.org/wiki/SLAC_National_Accelerator_Laboratory
+ - https://en.wikipedia.org/wiki/KEK
+ - https://en.wikipedia.org/wiki/LHCb
+ - https://en.wikipedia.org/wiki/D_meson
+ - https://en.wikipedia.org/wiki/B_meson
+ - https://en.wikipedia.org/wiki/B-factory
+ - https://en.wikipedia.org/wiki/Axion
+ - https://en.wikipedia.org/wiki/Multiple_time_dimensions
+ - https://en.wikipedia.org/wiki/Penguin_diagram
+ - https://en.wikipedia.org/wiki/Neutral_particle_oscillation
+ - https://en.wikipedia.org/wiki/NO%CE%BDA (particle physics)
+ - https://en.wikipedia.org/wiki/Kamioka_Observatory (particle physics)
+ - https://en.wikipedia.org/wiki/Deep_Underground_Neutrino_Experiment
+ - https://en.wikipedia.org/wiki/Template:Neutrino_detectors
+ - https://en.wikipedia.org/wiki/Majorana_fermion
+ - https://en.wikipedia.org/wiki/Double_beta_decay
