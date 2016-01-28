@@ -204,13 +204,13 @@ articles to read:
  - https://en.wikipedia.org/wiki/B-factory
  - https://en.wikipedia.org/wiki/Axion
  - https://en.wikipedia.org/wiki/Multiple_time_dimensions
- - https://en.wikipedia.org/wiki/Penguin_diagram
- - https://en.wikipedia.org/wiki/Neutral_particle_oscillation
+ - https://en.wikipedia.org/wiki/Penguin_diagram (particle physics)
+ - https://en.wikipedia.org/wiki/Neutral_particle_oscillation (particle physics)
  - https://en.wikipedia.org/wiki/NO%CE%BDA (particle physics)
  - https://en.wikipedia.org/wiki/Kamioka_Observatory (particle physics)
  - https://en.wikipedia.org/wiki/Deep_Underground_Neutrino_Experiment
- - https://en.wikipedia.org/wiki/Template:Neutrino_detectors
- - https://en.wikipedia.org/wiki/Majorana_fermion
- - https://en.wikipedia.org/wiki/Double_beta_decay
+ - https://en.wikipedia.org/wiki/Template:Neutrino_detectors (particle physics)
+ - https://en.wikipedia.org/wiki/Majorana_fermion (particle physics)
+ - https://en.wikipedia.org/wiki/Double_beta_decay (particle physics)
  - https://en.wikipedia.org/wiki/MINOS (particle physics)
  - https://en.wikipedia.org/wiki/MiniBooNE (particle physics)
