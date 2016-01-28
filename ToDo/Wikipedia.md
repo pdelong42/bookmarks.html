@@ -189,6 +189,8 @@ articles to read:
  - https://en.wikipedia.org/wiki/W_and_Z_bosons
  - https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_statistics
  - https://en.wikipedia.org/wiki/Fractional_calculus
+ - https://en.wikipedia.org/wiki/Zeeman_effect
+ - https://en.wikipedia.org/wiki/BICEP_and_Keck_Array
  - https://en.wikipedia.org/wiki/CPT_symmetry
  - https://en.wikipedia.org/wiki/NA48_experiment
  - https://en.wikipedia.org/wiki/NA62_experiment
@@ -210,3 +212,5 @@ articles to read:
  - https://en.wikipedia.org/wiki/Template:Neutrino_detectors
  - https://en.wikipedia.org/wiki/Majorana_fermion
  - https://en.wikipedia.org/wiki/Double_beta_decay
+ - https://en.wikipedia.org/wiki/MINOS (particle physics)
+ - https://en.wikipedia.org/wiki/MiniBooNE (particle physics)
