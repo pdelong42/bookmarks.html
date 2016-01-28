@@ -219,4 +219,4 @@ articles to read:
  - https://en.wikipedia.org/wiki/Template:Saturn_spacecraft
  - https://en.wikipedia.org/wiki/Juno_(spacecraft)
  - https://en.wikipedia.org/wiki/Planet_Nine
- - https://en.wikipedia.org/wiki/Zeldovich_pancake
+ - https://en.wikipedia.org/wiki/Baryon_acoustic_oscillations
