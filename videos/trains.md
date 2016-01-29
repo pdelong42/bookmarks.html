@@ -1,3 +1,5 @@
+https://en.wikipedia.org/wiki/Slow_television
+
 ### Bergensbanen
 
 https://nrkbeta.no/2009/12/18/bergensbanen-eng/
