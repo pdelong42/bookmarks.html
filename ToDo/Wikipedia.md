@@ -221,3 +221,4 @@ articles to read:
  - https://en.wikipedia.org/wiki/Planet_Nine
  - https://en.wikipedia.org/wiki/Baryon_acoustic_oscillations
  - https://en.wikipedia.org/wiki/Magnetic_moment
+ - https://en.wikipedia.org/wiki/Multipole_expansion
