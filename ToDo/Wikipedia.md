@@ -223,3 +223,6 @@ articles to read:
  - https://en.wikipedia.org/wiki/Magnetic_moment
  - https://en.wikipedia.org/wiki/Multipole_expansion
  - https://en.wikipedia.org/wiki/Table_of_Lie_groups
+ - https://en.wikipedia.org/wiki/Compact_space (topology)
+ - https://en.wikipedia.org/wiki/Symplectic_manifold
+ - https://en.wikipedia.org/wiki/Poisson_bracket
