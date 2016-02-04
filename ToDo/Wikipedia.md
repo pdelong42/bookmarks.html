@@ -226,6 +226,8 @@ articles to read:
  - https://en.wikipedia.org/wiki/Compact_space (topology)
  - https://en.wikipedia.org/wiki/Symplectic_manifold
  - https://en.wikipedia.org/wiki/Poisson_bracket
+ - https://en.wikipedia.org/wiki/Dirac_equation
+ - https://en.wikipedia.org/wiki/Spinor
  - https://en.wikipedia.org/wiki/K-D-B-tree
  - https://en.wikipedia.org/wiki/Oblivious_data_structure
  - https://en.wikipedia.org/wiki/Template:CS_trees
