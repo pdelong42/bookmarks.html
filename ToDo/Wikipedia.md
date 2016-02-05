@@ -253,3 +253,5 @@ articles to read:
  - https://en.wikipedia.org/wiki/National_Radio_Astronomy_Observatory
  - https://en.wikipedia.org/wiki/Green_Bank,_West_Virginia
  - https://en.wikipedia.org/wiki/United_States_National_Radio_Quiet_Zone
+ - https://en.wikipedia.org/wiki/Go_and_mathematics
+ - https://en.wikipedia.org/wiki/AlphaGo
