@@ -248,3 +248,8 @@ articles to read:
  - https://en.wikipedia.org/wiki/Introduction_to_gauge_theory
  - https://en.wikipedia.org/wiki/Server_Name_Indication
  - https://en.wikipedia.org/wiki/Template:TLS/SSL
+ - https://en.wikipedia.org/wiki/ALMA_(radio_telescope_array)
+ - https://en.wikipedia.org/wiki/Karl_G._Jansky_Very_Large_Array
+ - https://en.wikipedia.org/wiki/National_Radio_Astronomy_Observatory
+ - https://en.wikipedia.org/wiki/Green_Bank,_West_Virginia
+ - https://en.wikipedia.org/wiki/United_States_National_Radio_Quiet_Zone
