@@ -246,3 +246,5 @@ articles to read:
  - https://en.wikipedia.org/wiki/Calculus_of_variations
  - https://en.wikipedia.org/wiki/Fiber_bundle
  - https://en.wikipedia.org/wiki/Introduction_to_gauge_theory
+ - https://en.wikipedia.org/wiki/Server_Name_Indication
+ - https://en.wikipedia.org/wiki/Template:TLS/SSL
