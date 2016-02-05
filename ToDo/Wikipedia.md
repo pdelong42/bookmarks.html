@@ -232,3 +232,17 @@ articles to read:
  - https://en.wikipedia.org/wiki/Oblivious_data_structure
  - https://en.wikipedia.org/wiki/Template:CS_trees
  - https://en.wikipedia.org/wiki/Template:Data_structures
+ - https://en.wikipedia.org/wiki/Standard_Model
+ - https://en.wikipedia.org/wiki/Quantum_electrodynamics
+ - https://en.wikipedia.org/wiki/J._J._Sakurai
+ - https://en.wikipedia.org/wiki/Sakurai_Prize
+ - https://en.wikipedia.org/wiki/Lagrangian_mechanics
+ - https://en.wikipedia.org/wiki/Noether%27s_theorem
+ - https://en.wikipedia.org/wiki/Principle_of_least_action
+ - https://en.wikipedia.org/wiki/Hamiltonian_mechanics
+ - https://en.wikipedia.org/wiki/Functional_derivative
+ - https://en.wikipedia.org/wiki/Beltrami_identity
+ - https://en.wikipedia.org/wiki/Analytical_mechanics
+ - https://en.wikipedia.org/wiki/Calculus_of_variations
+ - https://en.wikipedia.org/wiki/Fiber_bundle
+ - https://en.wikipedia.org/wiki/Introduction_to_gauge_theory
