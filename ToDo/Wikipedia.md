@@ -257,3 +257,6 @@ articles to read:
  - https://en.wikipedia.org/wiki/AlphaGo
  - https://en.wikipedia.org/wiki/Glass
  - https://en.wikipedia.org/wiki/Baumol%27s_cost_disease
+ - https://en.wikipedia.org/wiki/Cross-cap
+ - https://en.wikipedia.org/wiki/Mathematics_of_general_relativity
+ - https://en.wikipedia.org/wiki/Covariant_derivative
