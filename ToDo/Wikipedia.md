@@ -261,3 +261,5 @@ articles to read:
  - https://en.wikipedia.org/wiki/Mathematics_of_general_relativity
  - https://en.wikipedia.org/wiki/Covariant_derivative
  - https://en.wikipedia.org/wiki/LIGO
+ - https://en.wikipedia.org/wiki/Quasiparticle
+ - https://en.wikipedia.org/wiki/Heavy_fermion
