@@ -263,3 +263,4 @@ articles to read:
  - https://en.wikipedia.org/wiki/LIGO
  - https://en.wikipedia.org/wiki/Quasiparticle
  - https://en.wikipedia.org/wiki/Heavy_fermion
+ - https://en.wikipedia.org/wiki/Minimal_Supersymmetric_Standard_Model
