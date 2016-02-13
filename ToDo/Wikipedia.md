@@ -267,3 +267,6 @@ articles to read:
  - https://en.wikipedia.org/wiki/Template:Gravitational_waves
  - https://en.wikipedia.org/wiki/W._E._B._Du_Bois
  - https://en.wikipedia.org/wiki/Sequencing
+ - https://en.wikipedia.org/wiki/Coreboot
+ - https://en.wikipedia.org/wiki/Maui_Cluster_Scheduler
+ - https://en.wikipedia.org/wiki/TORQUE
