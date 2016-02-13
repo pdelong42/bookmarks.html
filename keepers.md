@@ -35,3 +35,6 @@
 
  - http://opensource.com/life/15/11/audio-format-linux-flac-ogg
    Yes.  So very yes.  This is why I prefer FLAC.
+
+ - http://science.sciencemag.org/content/351/6273/564.full
+   Taking race out of human genetics
