@@ -265,3 +265,4 @@ articles to read:
  - https://en.wikipedia.org/wiki/Heavy_fermion
  - https://en.wikipedia.org/wiki/Minimal_Supersymmetric_Standard_Model
  - https://en.wikipedia.org/wiki/Template:Gravitational_waves
+ - https://en.wikipedia.org/wiki/W._E._B._Du_Bois
