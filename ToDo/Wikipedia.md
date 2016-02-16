@@ -270,3 +270,8 @@ articles to read:
  - https://en.wikipedia.org/wiki/Coreboot
  - https://en.wikipedia.org/wiki/Maui_Cluster_Scheduler
  - https://en.wikipedia.org/wiki/TORQUE
+ - https://en.wikipedia.org/wiki/Wendelstein_7-X
+ - https://en.wikipedia.org/wiki/Template:Fusion_experiments
+ - https://en.wikipedia.org/wiki/Template:Nuclear_fusion_reactors
+ - https://en.wikipedia.org/wiki/Template:Fusion_methods
+ - https://en.wikipedia.org/wiki/Princeton_Plasma_Physics_Laboratory
