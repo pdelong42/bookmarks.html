@@ -275,3 +275,6 @@ articles to read:
  - https://en.wikipedia.org/wiki/Template:Nuclear_fusion_reactors
  - https://en.wikipedia.org/wiki/Template:Fusion_methods
  - https://en.wikipedia.org/wiki/Princeton_Plasma_Physics_Laboratory
+ - https://en.wikipedia.org/wiki/Harmonic_function
+ - https://en.wikipedia.org/wiki/Laplace_operator
+ - https://en.wikipedia.org/wiki/Spherical_harmonics
