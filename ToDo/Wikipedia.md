@@ -278,3 +278,6 @@ articles to read:
  - https://en.wikipedia.org/wiki/Harmonic_function
  - https://en.wikipedia.org/wiki/Laplace_operator
  - https://en.wikipedia.org/wiki/Spherical_harmonics
+ - https://en.wikipedia.org/wiki/Mathematics_of_general_relativity
+ - https://en.wikipedia.org/wiki/Gravitational_wave
+ - https://en.wikipedia.org/wiki/First_observation_of_gravitational_waves
