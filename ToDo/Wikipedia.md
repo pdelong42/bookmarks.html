@@ -1,10 +1,3 @@
-general topics:
-
- - orbits
- - batteries
-
-articles to read:
-
  - https://en.wikipedia.org/wiki/Newton%27s_cradle
  - https://en.wikipedia.org/wiki/Proper_acceleration
  - https://en.wikipedia.org/wiki/Liquid_fluoride_thorium_reactor
@@ -283,3 +276,6 @@ articles to read:
  - https://en.wikipedia.org/wiki/Mathematics_of_general_relativity
  - https://en.wikipedia.org/wiki/Gravitational_wave
  - https://en.wikipedia.org/wiki/First_observation_of_gravitational_waves
+ - https://en.wikipedia.org/wiki/Battery_(electricity)
+ - https://en.wikipedia.org/wiki/Orbit
+ - https://en.wikipedia.org/wiki/Template:Orbits
