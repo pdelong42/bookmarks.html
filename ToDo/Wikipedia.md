@@ -280,7 +280,12 @@
  - https://en.wikipedia.org/wiki/Orbit
  - https://en.wikipedia.org/wiki/Template:Orbits
  - https://en.wikipedia.org/wiki/Levenshtein_distance
+ - https://en.wikipedia.org/wiki/Cape_York_meteorite
  - https://en.wikipedia.org/wiki/Beta-keratin
  - https://en.wikipedia.org/wiki/Beta-Carotene
  - https://en.wikipedia.org/wiki/Scanning_electron_microscope
  - https://en.wikipedia.org/wiki/Scanning_tunneling_microscope
+ - https://en.wikipedia.org/wiki/Raman_spectroscopy
+ - https://en.wikipedia.org/wiki/Chalcedony
+ - https://en.wikipedia.org/wiki/Topaz
+ - https://en.wikipedia.org/wiki/Fluorite
