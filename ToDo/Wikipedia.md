@@ -289,5 +289,13 @@
  - https://en.wikipedia.org/wiki/Chalcedony
  - https://en.wikipedia.org/wiki/Topaz
  - https://en.wikipedia.org/wiki/Fluorite
- - https://en.wikipedia.org/wiki/Color_confinement
  - https://en.wikipedia.org/wiki/Quark%E2%80%93gluon_plasma
+ - https://en.wikipedia.org/wiki/Wilson_loop
+ - https://en.wikipedia.org/wiki/Asymptotic_freedom
+ - https://en.wikipedia.org/wiki/Gluon_field_strength_tensor
+ - https://en.wikipedia.org/wiki/Infrared_safety_(particle_physics)
+ - https://en.wikipedia.org/wiki/Kinoshita-Lee-Nauenberg_theorem
+ - https://en.wikipedia.org/wiki/Infrared_divergence
+ - https://en.wikipedia.org/wiki/Beta_function_(physics)
+ - https://en.wikipedia.org/wiki/Center_vortex
+ - https://en.wikipedia.org/wiki/Dual_superconductor_model
