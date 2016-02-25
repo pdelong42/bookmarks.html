@@ -289,3 +289,5 @@
  - https://en.wikipedia.org/wiki/Chalcedony
  - https://en.wikipedia.org/wiki/Topaz
  - https://en.wikipedia.org/wiki/Fluorite
+ - https://en.wikipedia.org/wiki/Color_confinement
+ - https://en.wikipedia.org/wiki/Quark%E2%80%93gluon_plasma
