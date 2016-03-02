@@ -22,3 +22,11 @@ https://nrkbeta.no/2011/12/21/hurtigrutenbonanza-splitterny-full-hd-nedlasting-b
 http://nl.nrk.no/torrent/hurtigruten/Hurtigruten.x264.1920x1080.NRK2r.torrent
 
 http://nrk.no/hurtigruten/feed.html
+
+### scrape these links for more
+
+http://blogg.frankeivind.net/2011/07/10/hurtigruten-timelapse-fra-havn-til-havn/
+
+http://stanislavs.org/videoprojects/?page_id=6
+
+http://nrk.no/hurtigruten/index9ed2.html?lang=en
