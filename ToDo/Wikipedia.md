@@ -1,4 +1,3 @@
- - https://en.wikipedia.org/wiki/Newton%27s_cradle
  - https://en.wikipedia.org/wiki/Proper_acceleration
  - https://en.wikipedia.org/wiki/Liquid_fluoride_thorium_reactor
  - https://en.wikipedia.org/wiki/Kaluza%E2%80%93Klein_theory (particle physics)
@@ -299,3 +298,4 @@
  - https://en.wikipedia.org/wiki/Beta_function_(physics)
  - https://en.wikipedia.org/wiki/Center_vortex
  - https://en.wikipedia.org/wiki/Dual_superconductor_model
+ - https://en.wikipedia.org/wiki/Galilean_cannon
