@@ -4,6 +4,9 @@
  - http://snap.berkeley.edu/
    A Scratch-like language
 
+ - http://www.scratchjr.org/
+   Scratch Jr
+
  - http://link.springer.com/article/10.1140/epjc/s10052-012-2022-1/fulltext.html
    tagging algorithms for particle physics, and Monte Carlo simulations for evaluating their performance
 
