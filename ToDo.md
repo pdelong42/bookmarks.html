@@ -166,5 +166,25 @@
 
  - https://sites.google.com/a/slu.edu/swartwout/home/cubesat-database
    CubeSat Database
+
+### saving tabs on 2016-02-29
+
+ - http://briancarper.net/blog/510.html
+   Deploying Clojure websites
+
+ - http://clojure-doc.org/articles/tutorials/emacs.html
+   Clojure with Emacs
+
+ - https://www.emacswiki.org/emacs/ParEdit
+   Par Edit
+
+ - http://www.braveclojure.com/
+   Clojure for the Brave and True
+
+ - http://docs.aws.amazon.com/general/latest/gr/GetTheTools.html
+ - http://aws.amazon.com/about-aws/events/monthlywebinarseries/
+ - http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/terminating-instances.html
+ - http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/block-device-mapping-concepts.html
+
  - http://www.lhup.edu/~dsimanek/scenario/cradle.htm
    Newton's Cradle
