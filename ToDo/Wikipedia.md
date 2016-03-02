@@ -298,4 +298,7 @@
  - https://en.wikipedia.org/wiki/Beta_function_(physics)
  - https://en.wikipedia.org/wiki/Center_vortex
  - https://en.wikipedia.org/wiki/Dual_superconductor_model
+ - https://en.wikipedia.org/wiki/VISTA_(telescope)
+ - https://en.wikipedia.org/wiki/Spitzer_Space_Telescope
+ - https://en.wikipedia.org/wiki/Atacama_Pathfinder_Experiment
  - https://en.wikipedia.org/wiki/Galilean_cannon
