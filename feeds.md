@@ -15,6 +15,10 @@ Science and tech:
  - https://christophermeiklejohn.com/
    ...which is right here.
 
+ - http://christophermaier.name/
+   Christopher Maier's Technical Blog
+   (old, possibly outdated, but possibly useful)
+
  - http://chadfowler.com/
  - http://daemianmack.com/
  - http://david-mcneil.com/
