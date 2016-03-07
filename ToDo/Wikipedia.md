@@ -274,7 +274,6 @@
  - https://en.wikipedia.org/wiki/Surface_science
  - https://en.wikipedia.org/wiki/Mathematics_of_general_relativity
  - https://en.wikipedia.org/wiki/Gravitational_wave
- - https://en.wikipedia.org/wiki/First_observation_of_gravitational_waves
  - https://en.wikipedia.org/wiki/Battery_(electricity)
  - https://en.wikipedia.org/wiki/Orbit
  - https://en.wikipedia.org/wiki/Template:Orbits
@@ -302,3 +301,20 @@
  - https://en.wikipedia.org/wiki/Spitzer_Space_Telescope
  - https://en.wikipedia.org/wiki/Atacama_Pathfinder_Experiment
  - https://en.wikipedia.org/wiki/Galilean_cannon
+ - https://en.wikipedia.org/wiki/Physics_World
+ - https://en.wikipedia.org/wiki/Hulse%E2%80%93Taylor_binary
+ - https://en.wikipedia.org/wiki/PSR_J0737-3039
+ - https://en.wikipedia.org/wiki/GEO600
+ - https://en.wikipedia.org/wiki/KAGRA
+ - https://en.wikipedia.org/wiki/Indian_Initiative_in_Gravitational-wave_Observations
+ - https://en.wikipedia.org/wiki/Virgo_interferometer
+ - https://en.wikipedia.org/wiki/Exotic_star
+ - https://en.wikipedia.org/wiki/Post-Newtonian_expansion
+ - https://en.wikipedia.org/wiki/Rotating_black_hole
+ - https://en.wikipedia.org/wiki/Fermi_Gamma-ray_Space_Telescope
+ - https://en.wikipedia.org/wiki/INTEGRAL
+ - https://en.wikipedia.org/wiki/ANTARES_(telescope)
+ - https://en.wikipedia.org/wiki/Swift_Gamma-Ray_Burst_Mission
+ - https://en.wikipedia.org/wiki/Tests_of_general_relativity
+ - https://en.wikipedia.org/wiki/Gravitational-wave_astronomy
+ - https://en.wikipedia.org/wiki/Gravitational-wave_observatory
