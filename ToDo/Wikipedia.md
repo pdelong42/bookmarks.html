@@ -319,3 +319,4 @@
  - https://en.wikipedia.org/wiki/Gravitational-wave_astronomy
  - https://en.wikipedia.org/wiki/Gravitational-wave_observatory
  - https://en.wikipedia.org/wiki/Gini_coefficient
+ - https://en.wikipedia.org/wiki/Graphics_Core_Next
