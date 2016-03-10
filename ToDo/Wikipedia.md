@@ -318,3 +318,4 @@
  - https://en.wikipedia.org/wiki/Tests_of_general_relativity
  - https://en.wikipedia.org/wiki/Gravitational-wave_astronomy
  - https://en.wikipedia.org/wiki/Gravitational-wave_observatory
+ - https://en.wikipedia.org/wiki/Gini_coefficient
