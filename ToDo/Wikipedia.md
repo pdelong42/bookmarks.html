@@ -321,3 +321,4 @@
  - https://en.wikipedia.org/wiki/Gini_coefficient
  - https://en.wikipedia.org/wiki/Graphics_Core_Next
  - https://en.wikipedia.org/wiki/DEEP-IN
+ - https://en.wikipedia.org/wiki/Coriolis_force
