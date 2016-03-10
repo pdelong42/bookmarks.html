@@ -35,3 +35,9 @@ Nerd entertainment:
 
  - https://twitter.com/kibooki
  - https://xkcd.com/
+
+People I know:
+
+ - https://twitter.com/Dan_Reisman
+ - https://occasionalhiker.wordpress.com/
+ - https://travelbytheseatofmypants.wordpress.com/
