@@ -323,3 +323,4 @@
  - https://en.wikipedia.org/wiki/DEEP-IN
  - https://en.wikipedia.org/wiki/Coriolis_force
  - https://en.wikipedia.org/wiki/Transactional_memory
+ - https://en.wikipedia.org/wiki/Stepper_motor
