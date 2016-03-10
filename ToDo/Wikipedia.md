@@ -322,3 +322,4 @@
  - https://en.wikipedia.org/wiki/Graphics_Core_Next
  - https://en.wikipedia.org/wiki/DEEP-IN
  - https://en.wikipedia.org/wiki/Coriolis_force
+ - https://en.wikipedia.org/wiki/Transactional_memory
