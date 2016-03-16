@@ -38,3 +38,6 @@
 
  - http://science.sciencemag.org/content/351/6273/564.full
    Taking race out of human genetics
+
+ - http://stackoverflow.com/questions/359424/detach-subdirectory-into-separate-git-repository
+   Detach subdirectory into separate Git repository
