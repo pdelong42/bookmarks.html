@@ -326,4 +326,6 @@
  - https://en.wikipedia.org/wiki/Transactional_memory
  - https://en.wikipedia.org/wiki/Stepper_motor
  - https://en.wikipedia.org/wiki/Crocker_Land_Expedition
+ - https://en.wikipedia.org/wiki/Course_of_Theoretical_Physics
+ - https://en.wikipedia.org/wiki/Poisson_bracket
  - https://en.wikipedia.org/wiki/Hamming_distance
