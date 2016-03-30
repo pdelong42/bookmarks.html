@@ -329,3 +329,5 @@
  - https://en.wikipedia.org/wiki/Course_of_Theoretical_Physics
  - https://en.wikipedia.org/wiki/Poisson_bracket
  - https://en.wikipedia.org/wiki/Hamming_distance
+ - https://en.wikipedia.org/wiki/Sentinel-2A
+ - https://en.wikipedia.org/wiki/OSIRIS-REx
