@@ -67,3 +67,6 @@
  - http://www.rit.edu/news/story.php?id=51127
    follow leads on 'smart dust' and telescopes made of the same, as well as associated image processing techniques
    (computational photography, radiation-pressure control)
+
+ - https://stackedit.io/
+   StackEdit
