@@ -334,4 +334,5 @@
  - https://en.wikipedia.org/wiki/Closed-cycle_gas_turbine
  - https://en.wikipedia.org/wiki/Thorium_fuel_cycle
  - https://en.wikipedia.org/wiki/Molten_salt_reactor
+ - https://en.wikipedia.org/wiki/Stainless_steel
  - https://en.wikipedia.org/wiki/OSIRIS-REx
