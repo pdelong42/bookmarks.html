@@ -330,6 +330,7 @@
  - https://en.wikipedia.org/wiki/Poisson_bracket
  - https://en.wikipedia.org/wiki/Hamming_distance
  - https://en.wikipedia.org/wiki/Sentinel-2A
+ - https://en.wikipedia.org/wiki/Levi-Civita_symbol
  - https://en.wikipedia.org/wiki/Closed-cycle_gas_turbine
  - https://en.wikipedia.org/wiki/Thorium_fuel_cycle
  - https://en.wikipedia.org/wiki/Molten_salt_reactor
