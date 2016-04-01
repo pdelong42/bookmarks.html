@@ -340,3 +340,5 @@
  - https://en.wikipedia.org/wiki/Kerbal_Space_Program
  - https://en.wikipedia.org/wiki/G%C3%B6del_numbering
  - https://en.wikipedia.org/wiki/GNU_Emacs
+ - https://en.wikipedia.org/wiki/Parkinson%27s_law
+ - https://en.wikipedia.org/wiki/Jevons_paradox
