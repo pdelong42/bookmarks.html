@@ -342,3 +342,4 @@
  - https://en.wikipedia.org/wiki/GNU_Emacs
  - https://en.wikipedia.org/wiki/Parkinson%27s_law
  - https://en.wikipedia.org/wiki/Jevons_paradox
+ - https://en.wikipedia.org/wiki/R-process
