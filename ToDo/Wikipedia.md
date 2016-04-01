@@ -1,6 +1,6 @@
+ - https://en.wikipedia.org/wiki/Thorium_fuel_cycle
  - https://en.wikipedia.org/wiki/Proper_velocity
  - https://en.wikipedia.org/wiki/Proper_acceleration
- - https://en.wikipedia.org/wiki/Liquid_fluoride_thorium_reactor
  - https://en.wikipedia.org/wiki/Kaluza%E2%80%93Klein_theory (particle physics)
  - https://en.wikipedia.org/wiki/BaBar_experiment (particle physics)
  - https://en.wikipedia.org/wiki/Belle_experiment (particle physics)
@@ -343,3 +343,4 @@
  - https://en.wikipedia.org/wiki/Parkinson%27s_law
  - https://en.wikipedia.org/wiki/Jevons_paradox
  - https://en.wikipedia.org/wiki/R-process
+ - https://en.wikipedia.org/wiki/Liquid_fluoride_thorium_reactor
