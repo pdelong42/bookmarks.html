@@ -338,3 +338,4 @@
  - https://en.wikipedia.org/wiki/Quantum_tic-tac-toe
  - https://en.wikipedia.org/wiki/OSIRIS-REx
  - https://en.wikipedia.org/wiki/Kerbal_Space_Program
+ - https://en.wikipedia.org/wiki/G%C3%B6del_numbering
