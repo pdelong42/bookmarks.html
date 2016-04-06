@@ -346,3 +346,4 @@
  - https://en.wikipedia.org/wiki/Liquid_fluoride_thorium_reactor
  - https://en.wikipedia.org/wiki/LIFX
  - https://en.wikipedia.org/wiki/IEEE_802.15.4
+ - https://en.wikipedia.org/wiki/IFTTT
