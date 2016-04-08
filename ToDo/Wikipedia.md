@@ -357,3 +357,4 @@
  - https://en.wikipedia.org/wiki/Project_Euler
  - https://en.wikipedia.org/wiki/Octree
  - https://en.wikipedia.org/wiki/XScreenSaver
+ - https://en.wikipedia.org/wiki/Principle_of_least_action
