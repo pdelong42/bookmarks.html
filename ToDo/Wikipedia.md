@@ -363,6 +363,10 @@
  - https://en.wikipedia.org/wiki/Natural_nuclear_fission_reactor
  - https://en.wikipedia.org/wiki/CANDU_reactor
  - https://en.wikipedia.org/wiki/Carlo_Rubbia
+ - https://en.wikipedia.org/wiki/Tragedy_of_the_commons
+ - https://en.wikipedia.org/wiki/Thomas_Robert_Malthus
+ - https://en.wikipedia.org/wiki/Joel_E._Cohen
+ - https://en.wikipedia.org/wiki/Malthusian_growth_model
  - https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation
  - https://en.wikipedia.org/wiki/Bluestone
  - https://en.wikipedia.org/wiki/Opium_of_the_people
