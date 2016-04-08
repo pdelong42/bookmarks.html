@@ -358,3 +358,6 @@
  - https://en.wikipedia.org/wiki/Octree
  - https://en.wikipedia.org/wiki/XScreenSaver
  - https://en.wikipedia.org/wiki/Principle_of_least_action
+ - https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation
+ - https://en.wikipedia.org/wiki/Bluestone
+ - https://en.wikipedia.org/wiki/Opium_of_the_people
