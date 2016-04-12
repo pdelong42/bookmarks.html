@@ -370,3 +370,6 @@
  - https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation
  - https://en.wikipedia.org/wiki/Bluestone
  - https://en.wikipedia.org/wiki/Opium_of_the_people
+ - https://en.wikipedia.org/wiki/Superalloy
+ - https://en.wikipedia.org/wiki/Peak_uranium
+ - https://en.wikipedia.org/wiki/Thorium_Energy_Alliance
