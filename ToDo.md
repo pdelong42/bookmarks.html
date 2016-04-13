@@ -191,3 +191,6 @@
 
  - http://nationalparksadventure.com/
    National Parks Adventure
+
+ - https://github.com/hyperic/jcollectd
+ - https://github.com/egineering-llc/collectd-fast-jmx
