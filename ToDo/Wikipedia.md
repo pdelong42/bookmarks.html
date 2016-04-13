@@ -1,4 +1,3 @@
- - https://en.wikipedia.org/wiki/Thorium_fuel_cycle
  - https://en.wikipedia.org/wiki/Proper_velocity
  - https://en.wikipedia.org/wiki/Proper_acceleration
  - https://en.wikipedia.org/wiki/Kaluza%E2%80%93Klein_theory (particle physics)
