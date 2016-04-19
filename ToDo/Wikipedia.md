@@ -376,3 +376,4 @@
  - https://en.wikipedia.org/wiki/Quadrupole
  - https://en.wikipedia.org/wiki/ANTLR
  - https://en.wikipedia.org/wiki/Beamforming
+ - https://en.wikipedia.org/wiki/Law_of_triviality
