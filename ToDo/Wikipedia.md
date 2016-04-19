@@ -377,3 +377,5 @@
  - https://en.wikipedia.org/wiki/ANTLR
  - https://en.wikipedia.org/wiki/Beamforming
  - https://en.wikipedia.org/wiki/Law_of_triviality
+ - https://en.wikipedia.org/wiki/Tepui
+ - https://en.wikipedia.org/wiki/Pico_da_Neblina
