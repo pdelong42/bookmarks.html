@@ -197,4 +197,8 @@
  - https://github.com/hroptatyr/dateutils
  - https://github.com/nicolargo/glances
 
+ - https://www.manning.com/books/elasticsearch-in-action
+
+ - http://writequit.org/
+
  - http://www.columbia.edu/~brennan/subway/
