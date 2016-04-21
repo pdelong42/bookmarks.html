@@ -384,3 +384,5 @@
  - https://en.wikipedia.org/wiki/Comet_Shoemaker%E2%80%93Levy_9
  - https://en.wikipedia.org/wiki/Von_Mises%E2%80%93Fisher_distribution
  - https://en.wikipedia.org/wiki/IRT_Ninth_Avenue_Line
+ - https://en.wikipedia.org/wiki/Particle_in_a_box
+ - https://en.wikipedia.org/wiki/Quantum_teleportation
