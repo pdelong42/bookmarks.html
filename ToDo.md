@@ -207,3 +207,15 @@
    a collection of twitter feeds of daily facts in math/computing/science
 
  - http://www.johndcook.com/blog/
+
+ - http://lwn.net/Articles/229984/
+   The SLUB allocator
+
+ - http://lwn.net/Articles/381677/
+   Memory Compaction v7
+
+ - http://lwn.net/Articles/187979/
+   Detecting kernel memory leaks
+
+ - http://www.freesoftwaremagazine.com/articles/linux_performance_linux_slow_bloated
+   Linux performance: is Linux becoming just too slow and bloated?
