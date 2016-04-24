@@ -397,3 +397,4 @@
  - https://en.wikipedia.org/wiki/EROS_(satellite)
  - https://en.wikipedia.org/wiki/EROS_(microkernel)
  - https://en.wikipedia.org/wiki/Brian_May
+ - https://en.wikipedia.org/wiki/Topology_(electrical_circuits)
