@@ -202,3 +202,8 @@
  - http://writequit.org/
 
  - http://www.columbia.edu/~brennan/subway/
+
+ - http://www.johndcook.com/blog/twitter_page/
+   a collection of twitter feeds of daily facts in math/computing/science
+
+ - http://www.johndcook.com/blog/
