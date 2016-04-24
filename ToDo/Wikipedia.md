@@ -389,3 +389,4 @@
  - https://en.wikipedia.org/wiki/Quantum_teleportation
  - https://en.wikipedia.org/wiki/Topological_quantum_field_theory
  - https://en.wikipedia.org/wiki/Jones_polynomial
+ - https://en.wikipedia.org/wiki/Brian_Schmidt
