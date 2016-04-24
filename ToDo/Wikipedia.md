@@ -1,4 +1,3 @@
- - https://en.wikipedia.org/wiki/Slab_allocation
  - https://en.wikipedia.org/wiki/Virtual_work
  - https://en.wikipedia.org/wiki/Proper_velocity
  - https://en.wikipedia.org/wiki/Proper_acceleration
@@ -398,3 +397,8 @@
  - https://en.wikipedia.org/wiki/EROS_(microkernel)
  - https://en.wikipedia.org/wiki/Brian_May
  - https://en.wikipedia.org/wiki/Topology_(electrical_circuits)
+ - https://en.wikipedia.org/wiki/Fixed-size_blocks_allocation
+ - https://en.wikipedia.org/wiki/Memory_pool
+ - https://en.wikipedia.org/wiki/Object_pool
+ - https://en.wikipedia.org/wiki/SLOB
+ - https://en.wikipedia.org/wiki/SLUB_(software)
