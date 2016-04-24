@@ -393,3 +393,5 @@
  - https://en.wikipedia.org/wiki/Asteroid_spectral_types
  - https://en.wikipedia.org/wiki/Willamette_Meteorite
  - https://en.wikipedia.org/wiki/Cladistics
+ - https://en.wikipedia.org/wiki/Landsat_7
+ - https://en.wikipedia.org/wiki/EROS_(satellite)
