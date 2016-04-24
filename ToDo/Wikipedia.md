@@ -390,3 +390,6 @@
  - https://en.wikipedia.org/wiki/Topological_quantum_field_theory
  - https://en.wikipedia.org/wiki/Jones_polynomial
  - https://en.wikipedia.org/wiki/Brian_Schmidt
+ - https://en.wikipedia.org/wiki/Asteroid_spectral_types
+ - https://en.wikipedia.org/wiki/Willamette_Meteorite
+ - https://en.wikipedia.org/wiki/Cladistics
