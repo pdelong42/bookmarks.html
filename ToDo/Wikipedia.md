@@ -1,4 +1,3 @@
- - https://en.wikipedia.org/wiki/Write-ahead_logging
  - https://en.wikipedia.org/wiki/Virtual_work
  - https://en.wikipedia.org/wiki/Proper_velocity
  - https://en.wikipedia.org/wiki/Proper_acceleration
@@ -405,3 +404,4 @@
  - https://en.wikipedia.org/wiki/SLUB_(software)
  - https://en.wikipedia.org/wiki/Jaccard_index
  - https://en.wikipedia.org/wiki/Quantum_optics
+ - https://en.wikipedia.org/wiki/Algorithms_for_Recovery_and_Isolation_Exploiting_Semantics
