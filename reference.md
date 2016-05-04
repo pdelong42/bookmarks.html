@@ -21,3 +21,6 @@
 
  - http://clojure.github.io/clojure/
    API Overview - Clojure v1.7 (stable)
+
+ - http://docs.oracle.com/javase/7/docs/technotes/guides/vm/G1.html
+   Garbage-First Collector
