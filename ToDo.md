@@ -219,3 +219,24 @@
 
  - http://www.freesoftwaremagazine.com/articles/linux_performance_linux_slow_bloated
    Linux performance: is Linux becoming just too slow and bloated?
+
+ - http://docs.oracle.com/javase/7/docs/technotes/guides/vm/
+   Java(TM) Virtual Machine Technology
+
+ - http://docs.oracle.com/javase/8/docs/technotes/guides/vm/
+   Java Virtual Machine Technology
+
+ - http://docs.oracle.com/javase/8/docs/technotes/guides/vm/performance-enhancements-7.html
+   Java HotSpot(TM) Virtual Machine Performance Enhancements
+
+ - http://www.dest-unreach.org/socat/doc/socat.html
+   socat
+
+ - http://mattryall.net/blog/2011/09/udp-port-forwarding-with-socat
+   UDP port forwarding with socat
+
+ - https://sourceware.org/systemtap/tutorial/
+   Systemtap tutorial
+
+ - http://www.dsm.fordham.edu/cgi-bin/man-cgi.pl?topic=sd_notify&ampsect=3
+   SD_NOTIFY(3)
