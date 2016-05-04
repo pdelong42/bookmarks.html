@@ -1,3 +1,4 @@
+ - https://en.wikipedia.org/wiki/Write-ahead_logging
  - https://en.wikipedia.org/wiki/Virtual_work
  - https://en.wikipedia.org/wiki/Proper_velocity
  - https://en.wikipedia.org/wiki/Proper_acceleration
