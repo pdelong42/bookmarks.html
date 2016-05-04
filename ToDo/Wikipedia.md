@@ -402,3 +402,4 @@
  - https://en.wikipedia.org/wiki/Object_pool
  - https://en.wikipedia.org/wiki/SLOB
  - https://en.wikipedia.org/wiki/SLUB_(software)
+ - https://en.wikipedia.org/wiki/Jaccard_index
