@@ -403,3 +403,4 @@
  - https://en.wikipedia.org/wiki/SLOB
  - https://en.wikipedia.org/wiki/SLUB_(software)
  - https://en.wikipedia.org/wiki/Jaccard_index
+ - https://en.wikipedia.org/wiki/Quantum_optics
