@@ -408,4 +408,5 @@
  - https://en.wikipedia.org/wiki/Bayesian_inference_in_phylogeny
  - https://en.wikipedia.org/wiki/Magnetic_moment
  - https://en.wikipedia.org/wiki/Anomalous_magnetic_dipole_moment
- - https://en.wikipedia.org/wiki/Bohr_magneton
+ - https://en.wikipedia.org/wiki/Weiss_magneton
+ - https://en.wikipedia.org/wiki/G-factor_(physics)
