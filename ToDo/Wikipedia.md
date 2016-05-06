@@ -406,3 +406,6 @@
  - https://en.wikipedia.org/wiki/Quantum_optics
  - https://en.wikipedia.org/wiki/Algorithms_for_Recovery_and_Isolation_Exploiting_Semantics
  - https://en.wikipedia.org/wiki/Bayesian_inference_in_phylogeny
+ - https://en.wikipedia.org/wiki/Magnetic_moment
+ - https://en.wikipedia.org/wiki/Anomalous_magnetic_dipole_moment
+ - https://en.wikipedia.org/wiki/Bohr_magneton
