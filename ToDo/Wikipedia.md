@@ -410,3 +410,4 @@
  - https://en.wikipedia.org/wiki/Anomalous_magnetic_dipole_moment
  - https://en.wikipedia.org/wiki/Weiss_magneton
  - https://en.wikipedia.org/wiki/G-factor_(physics)
+ - https://en.wikipedia.org/wiki/PID_controller
