@@ -412,3 +412,4 @@
  - https://en.wikipedia.org/wiki/G-factor_(physics)
  - https://en.wikipedia.org/wiki/PID_controller
  - https://en.wikipedia.org/wiki/QUIC
+ - https://en.wikipedia.org/wiki/Virial_theorem
