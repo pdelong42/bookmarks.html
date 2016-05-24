@@ -240,3 +240,23 @@
 
  - http://www.dsm.fordham.edu/cgi-bin/man-cgi.pl?topic=sd_notify&ampsect=3
    SD_NOTIFY(3)
+
+ - https://math.berkeley.edu/~strain/
+   John A. Strain, Professor of Mathematics
+
+ - http://imp.mcmaster.ca/images/
+   Gasoline Gallery
+   (astrophysical simulations)
+
+ - http://geocalc.clas.asu.edu/
+   Geometric Calculus, Research and Development
+
+ - https://math.berkeley.edu/~strain/170.S13/cov.pdf
+   Calculus of Variations and Applications
+   (I've read the chapter, but still have to do the exercises)
+
+ - http://www.madscitech.org/tm/slns/
+   Solutions To Exercises for The Theoretical Minimum
+
+ - http://torch.ch/
+   A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT
