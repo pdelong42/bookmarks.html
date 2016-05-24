@@ -1,4 +1,5 @@
  - https://en.wikipedia.org/wiki/La_Silla_Observatory
+ - https://en.wikipedia.org/wiki/ESA_Centre_for_Earth_Observation
  - https://en.wikipedia.org/wiki/MS_Anthem_of_the_Seas
  - https://en.wikipedia.org/wiki/Diesel-electric_transmission
  - https://en.wikipedia.org/wiki/ABB_Group
@@ -424,3 +425,4 @@
  - https://en.wikipedia.org/wiki/Crossbar_switch
  - https://en.wikipedia.org/wiki/Internet_topology
  - https://en.wikipedia.org/wiki/TOP500
+ - https://en.wikipedia.org/wiki/Galileo_(satellite_navigation)
