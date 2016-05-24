@@ -41,3 +41,10 @@
 
  - http://stackoverflow.com/questions/359424/detach-subdirectory-into-separate-git-repository
    Detach subdirectory into separate Git repository
+
+ - http://haydenjames.io/strip-amazon-linux-ec2-maximize-available-ram/
+   How to strip down Amazon Linux EC2 to maximize available RAM
+
+ - http://www.thegeekstuff.com/2012/02/linux-memory-swap-cache-shared-vm/
+   http://www.thegeekstuff.com/2012/02/linux-memory-management/
+   poorly written, but he explains the concepts well regardless
