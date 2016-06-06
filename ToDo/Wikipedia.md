@@ -1,3 +1,4 @@
+ - https://en.wikipedia.org/wiki/Lagrange_multiplier
  - https://en.wikipedia.org/wiki/Q_code
  - https://en.wikipedia.org/wiki/La_Silla_Observatory
  - https://en.wikipedia.org/wiki/ESA_Centre_for_Earth_Observation
@@ -428,3 +429,5 @@
  - https://en.wikipedia.org/wiki/TOP500
  - https://en.wikipedia.org/wiki/Galileo_(satellite_navigation)
  - https://en.wikipedia.org/wiki/ASCII_art
+ - https://en.wikipedia.org/wiki/Level_set
+ - https://en.wikipedia.org/wiki/Pontryagin%27s_maximum_principle
