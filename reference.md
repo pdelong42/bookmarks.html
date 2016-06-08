@@ -24,3 +24,6 @@
 
  - http://docs.oracle.com/javase/7/docs/technotes/guides/vm/G1.html
    Garbage-First Collector
+
+ - https://www.nostarch.com/learnscratchresources
+   Learn to Program with Scratch Resources
