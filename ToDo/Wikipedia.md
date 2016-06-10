@@ -433,3 +433,5 @@
  - https://en.wikipedia.org/wiki/Level_set
  - https://en.wikipedia.org/wiki/Pontryagin%27s_maximum_principle
  - https://en.wikipedia.org/wiki/Karush%E2%80%93Kuhn%E2%80%93Tucker_conditions
+ - https://en.wikipedia.org/wiki/Tessellation
+ - https://en.wikipedia.org/wiki/Polyomino
