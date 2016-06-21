@@ -438,3 +438,4 @@
  - https://en.wikipedia.org/wiki/Yagi-Uda_antenna
  - https://en.wikipedia.org/wiki/Universal_Systems_Language
  - https://en.wikipedia.org/wiki/Margaret_Hamilton_(scientist)
+ - https://en.wikipedia.org/wiki/Pyrite
