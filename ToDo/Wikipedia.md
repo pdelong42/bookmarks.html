@@ -442,3 +442,5 @@
  - https://en.wikipedia.org/wiki/Nomogram
  - https://en.wikipedia.org/wiki/Scarlet_ibis
  - https://en.wikipedia.org/wiki/Theory_of_multiple_intelligences
+ - https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation
+ - https://en.wikipedia.org/wiki/International_Space_Station
