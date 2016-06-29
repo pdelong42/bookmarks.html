@@ -444,3 +444,4 @@
  - https://en.wikipedia.org/wiki/Theory_of_multiple_intelligences
  - https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation
  - https://en.wikipedia.org/wiki/International_Space_Station
+ - https://en.wikipedia.org/wiki/Hohmann_transfer_orbit
