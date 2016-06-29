@@ -441,3 +441,4 @@
  - https://en.wikipedia.org/wiki/Pyrite
  - https://en.wikipedia.org/wiki/Nomogram
  - https://en.wikipedia.org/wiki/Scarlet_ibis
+ - https://en.wikipedia.org/wiki/Theory_of_multiple_intelligences
