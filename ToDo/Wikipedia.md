@@ -445,3 +445,4 @@
  - https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation
  - https://en.wikipedia.org/wiki/International_Space_Station
  - https://en.wikipedia.org/wiki/Hohmann_transfer_orbit
+ - https://en.wikipedia.org/wiki/Jaron_Lanier
