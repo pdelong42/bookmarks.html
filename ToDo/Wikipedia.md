@@ -218,7 +218,6 @@
  - https://en.wikipedia.org/wiki/Huygens_(spacecraft)
  - https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens
  - https://en.wikipedia.org/wiki/Template:Saturn_spacecraft
- - https://en.wikipedia.org/wiki/Juno_(spacecraft)
  - https://en.wikipedia.org/wiki/Planet_Nine
  - https://en.wikipedia.org/wiki/Baryon_acoustic_oscillations
  - https://en.wikipedia.org/wiki/Magnetic_moment
