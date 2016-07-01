@@ -446,3 +446,5 @@
  - https://en.wikipedia.org/wiki/Hohmann_transfer_orbit
  - https://en.wikipedia.org/wiki/Jaron_Lanier
  - https://en.wikipedia.org/wiki/Wonderstruck_(book)
+ - https://en.wikipedia.org/wiki/Magnetopause
+ - https://en.wikipedia.org/wiki/Heliosphere
