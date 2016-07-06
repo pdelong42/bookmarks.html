@@ -448,3 +448,5 @@
  - https://en.wikipedia.org/wiki/Wonderstruck_(book)
  - https://en.wikipedia.org/wiki/Magnetopause
  - https://en.wikipedia.org/wiki/Heliosphere
+ - https://en.wikipedia.org/wiki/Heat_index
+ - https://en.wikipedia.org/wiki/Dew_point
