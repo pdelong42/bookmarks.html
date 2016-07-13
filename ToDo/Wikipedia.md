@@ -1,4 +1,10 @@
  - https://en.wikipedia.org/wiki/Lagrange_multiplier
+ - https://en.wikipedia.org/wiki/Two_Generals%27_Problem
+ - https://en.wikipedia.org/wiki/Shell_theorem
+ - https://en.wikipedia.org/wiki/Newton%27s_method_in_optimization
+ - https://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm
+ - https://en.wikipedia.org/wiki/Lamport_timestamps
+ - https://en.wikipedia.org/wiki/Smith_chart
  - https://en.wikipedia.org/wiki/LISA_Pathfinder
  - https://en.wikipedia.org/wiki/Q_code
  - https://en.wikipedia.org/wiki/La_Silla_Observatory
