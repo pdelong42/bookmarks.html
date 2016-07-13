@@ -465,3 +465,4 @@
  - https://en.wikipedia.org/wiki/Okapi_BM25
  - https://en.wikipedia.org/wiki/Squeezed_coherent_state
  - https://en.wikipedia.org/wiki/In-phase_and_quadrature_components
+ - https://en.wikipedia.org/wiki/Relativistic_wave_equations
