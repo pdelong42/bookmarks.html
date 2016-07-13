@@ -456,3 +456,9 @@
  - https://en.wikipedia.org/wiki/Heliosphere
  - https://en.wikipedia.org/wiki/Heat_index
  - https://en.wikipedia.org/wiki/Dew_point
+ - https://en.wikipedia.org/wiki/Declination
+ - https://en.wikipedia.org/wiki/Right_ascension
+ - https://en.wikipedia.org/wiki/Equatorial_coordinate_system
+ - https://en.wikipedia.org/wiki/Celestial_equator
+ - https://en.wikipedia.org/wiki/Ecliptic
+ - https://en.wikipedia.org/wiki/Horizontal_coordinate_system
