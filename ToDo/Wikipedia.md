@@ -1,4 +1,3 @@
- - https://en.wikipedia.org/wiki/Lagrange_multiplier
  - https://en.wikipedia.org/wiki/Two_Generals%27_Problem
  - https://en.wikipedia.org/wiki/Shell_theorem
  - https://en.wikipedia.org/wiki/Newton%27s_method_in_optimization
@@ -463,6 +462,7 @@
  - https://en.wikipedia.org/wiki/Ecliptic
  - https://en.wikipedia.org/wiki/Horizontal_coordinate_system
  - https://en.wikipedia.org/wiki/Okapi_BM25
+ - https://en.wikipedia.org/wiki/Lagrange_multiplier (visit external links)
  - https://en.wikipedia.org/wiki/Squeezed_coherent_state
  - https://en.wikipedia.org/wiki/In-phase_and_quadrature_components
  - https://en.wikipedia.org/wiki/Relativistic_wave_equations
