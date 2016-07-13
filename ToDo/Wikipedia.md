@@ -463,3 +463,4 @@
  - https://en.wikipedia.org/wiki/Ecliptic
  - https://en.wikipedia.org/wiki/Horizontal_coordinate_system
  - https://en.wikipedia.org/wiki/Okapi_BM25
+ - https://en.wikipedia.org/wiki/Squeezed_coherent_state
