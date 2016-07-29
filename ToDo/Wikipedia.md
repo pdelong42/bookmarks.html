@@ -1,3 +1,4 @@
+ - https://en.wikipedia.org/wiki/Einstein_ring
  - https://en.wikipedia.org/wiki/Two_Generals%27_Problem
  - https://en.wikipedia.org/wiki/Shell_theorem
  - https://en.wikipedia.org/wiki/Newton%27s_method_in_optimization
@@ -466,3 +467,5 @@
  - https://en.wikipedia.org/wiki/Squeezed_coherent_state
  - https://en.wikipedia.org/wiki/In-phase_and_quadrature_components
  - https://en.wikipedia.org/wiki/Relativistic_wave_equations
+ - https://en.wikipedia.org/wiki/Einstein_field_equations
+ - https://en.wikipedia.org/wiki/Extreme_mass_ratio_inspiral
