@@ -474,3 +474,4 @@
  - https://en.wikipedia.org/wiki/Dynamic_range
  - https://en.wikipedia.org/wiki/Extreme_mass_ratio_inspiral
  - https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault
+ - https://en.wikipedia.org/wiki/QUIC (visit external links)
