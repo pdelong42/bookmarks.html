@@ -260,3 +260,9 @@
 
  - http://torch.ch/
    A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT
+
+ - http://www.black-holes.org/explore/further-explorations
+   Simulating Extreme Spacetimes (follow links)
+
+ - http://www.gnu.org/software/gsl/
+   GSL - GNU Scientific Library (tinker with this)
