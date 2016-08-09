@@ -476,3 +476,7 @@
  - https://en.wikipedia.org/wiki/Extreme_mass_ratio_inspiral
  - https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault
  - https://en.wikipedia.org/wiki/QUIC (visit external links)
+ - https://en.wikipedia.org/wiki/Mathematics_of_general_relativity
+ - https://en.wikipedia.org/wiki/Levi-Civita_connection
+ - https://en.wikipedia.org/wiki/Christoffel_symbols
+ - https://en.wikipedia.org/wiki/Covariant_derivative
