@@ -1,3 +1,4 @@
+ - https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking
  - https://en.wikipedia.org/wiki/Einstein_ring
  - https://en.wikipedia.org/wiki/Two_Generals%27_Problem
  - https://en.wikipedia.org/wiki/Shell_theorem
