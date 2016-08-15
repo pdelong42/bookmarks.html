@@ -1,16 +1,25 @@
 Science and tech:
 
  - http://bit-player.org/
-   Bryan Hayes' blog.  Lots of supplementary material for his column in American Scientist, but it generally stands on its own.
+   Bryan Hayes' blog.  Lots of supplementary material for his column
+   in American Scientist, but it generally stands on its own.
 
  - http://www.scottaaronson.com/
-   Quantum computing person-who-matters.  Peter Shor has been known to comment on his blog.  I've followed his blog on-and-off for a few years.  He wrote a book on the subject, but I have yet to find-out if it's good.
+   Quantum computing person-who-matters.  Peter Shor has been known to
+   comment on his blog.  I've followed his blog on-and-off for a few
+   years.  He wrote a book on the subject, but I have yet to find-out
+   if it's good.
 
  - https://twitter.com/codemiller
-   RedHat OpenShift by day, and functional programming and women-in-tech evangelist by night (and day too, I suppose...).  Hails from Australia.
+   RedHat OpenShift by day, and functional programming and
+   women-in-tech evangelist by night (and day too, I suppose...).
+   Hails from Australia.
 
  - https://twitter.com/cmeik
-   Someone I stumbled across from a link Dan shared with me.  Seems to be doing interesting stuff in the math and programming spheres.  Though I just discovered he has a website / blog more substantial than Twitter...
+   Someone I stumbled across from a link Dan shared with me.  Seems to
+   be doing interesting stuff in the math and programming spheres.
+   Though I just discovered he has a website / blog more substantial
+   than Twitter...
 
  - https://christophermeiklejohn.com/
    ...which is right here.
@@ -18,6 +27,9 @@ Science and tech:
  - http://christophermaier.name/
    Christopher Maier's Technical Blog
    (old, possibly outdated, but possibly useful)
+
+ - https://twitter.com/hannahmitt
+   someone worth reading
 
  - http://chadfowler.com/
  - http://daemianmack.com/
