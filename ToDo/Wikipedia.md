@@ -479,3 +479,4 @@
  - https://en.wikipedia.org/wiki/Levi-Civita_connection
  - https://en.wikipedia.org/wiki/Christoffel_symbols
  - https://en.wikipedia.org/wiki/Covariant_derivative
+ - https://en.wikipedia.org/wiki/Topology
