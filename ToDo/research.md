@@ -70,3 +70,6 @@
 
  - https://stackedit.io/
    StackEdit
+
+ - https://www.certificate-transparency.org/
+   Google's Certificate Transparency project

@@ -21,3 +21,6 @@
 
  - https://tools.ietf.org/html/rfc5424
    The Syslog Protocol
+
+ - https://tools.ietf.org/html/rfc6797
+   HTTP Strict Transport Security (HSTS)
