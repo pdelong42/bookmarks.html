@@ -483,3 +483,9 @@
  - https://en.wikipedia.org/wiki/Topology
  - https://en.wikipedia.org/wiki/Template:TLS/SSL
  - https://en.wikipedia.org/wiki/Tf%E2%80%93idf
+ - https://en.wikipedia.org/wiki/Euler_method
+ - https://en.wikipedia.org/wiki/Finite_difference_method
+ - https://en.wikipedia.org/wiki/Finite_element_method
+ - https://en.wikipedia.org/wiki/Kantorovich_theorem
+ - https://en.wikipedia.org/wiki/Ritz_method
+ - https://en.wikipedia.org/wiki/Rayleigh%E2%80%93Ritz_method
