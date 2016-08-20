@@ -496,3 +496,5 @@
  - https://en.wikipedia.org/wiki/SPMD
  - https://en.wikipedia.org/wiki/Task_parallelism
  - https://en.wikipedia.org/wiki/Data_parallelism
+ - https://en.wikipedia.org/wiki/NumPy
+ - https://en.wikipedia.org/wiki/SciPy
