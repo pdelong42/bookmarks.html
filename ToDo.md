@@ -266,3 +266,12 @@
 
  - http://www.gnu.org/software/gsl/
    GSL - GNU Scientific Library (tinker with this)
+
+ - https://maryrosecook.com/blog/post/git-from-the-inside-out
+   Git from the inside out
+
+ - https://www.learnenough.com/git-tutorial
+   Learn Enough Git to Be Dangerous
+
+ - http://gitref.org/
+   Git Reference
