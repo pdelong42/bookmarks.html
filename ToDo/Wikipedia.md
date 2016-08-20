@@ -489,3 +489,4 @@
  - https://en.wikipedia.org/wiki/Kantorovich_theorem
  - https://en.wikipedia.org/wiki/Ritz_method
  - https://en.wikipedia.org/wiki/Rayleigh%E2%80%93Ritz_method
+ - https://en.wikipedia.org/wiki/Ritz%27s_Equation
