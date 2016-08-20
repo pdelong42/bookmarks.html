@@ -1,3 +1,5 @@
+ - https://en.wikipedia.org/wiki/IPython
+ - https://en.wikipedia.org/wiki/Pragmatic_General_Multicast
  - https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking
  - https://en.wikipedia.org/wiki/Einstein_ring
  - https://en.wikipedia.org/wiki/Two_Generals%27_Problem
@@ -490,3 +492,6 @@
  - https://en.wikipedia.org/wiki/Ritz_method
  - https://en.wikipedia.org/wiki/Rayleigh%E2%80%93Ritz_method
  - https://en.wikipedia.org/wiki/Ritz%27s_Equation
+ - https://en.wikipedia.org/wiki/SPMD
+ - https://en.wikipedia.org/wiki/Task_parallelism
+ - https://en.wikipedia.org/wiki/Data_parallelism
