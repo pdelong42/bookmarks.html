@@ -31,6 +31,10 @@ Science and tech:
  - https://twitter.com/hannahmitt
    someone worth reading
 
+ - https://maryrosecook.com/
+ - https://twitter.com/maryrosecook
+   another somebody worth reading
+
  - http://chadfowler.com/
  - http://daemianmack.com/
  - http://david-mcneil.com/
