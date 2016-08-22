@@ -1,4 +1,3 @@
- - https://en.wikipedia.org/wiki/IPython
  - https://en.wikipedia.org/wiki/Soil
  - https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking
  - https://en.wikipedia.org/wiki/Einstein_ring
