@@ -48,3 +48,7 @@
  - http://www.thegeekstuff.com/2012/02/linux-memory-swap-cache-shared-vm/
    http://www.thegeekstuff.com/2012/02/linux-memory-management/
    poorly written, but he explains the concepts well regardless
+
+ - http://redsymbol.net/articles/unofficial-bash-strict-mode/
+   Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)
+   (I intend to start using this shortly)
