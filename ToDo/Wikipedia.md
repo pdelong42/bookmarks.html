@@ -498,3 +498,4 @@
  - https://en.wikipedia.org/wiki/SciPy
  - https://en.wikipedia.org/wiki/Scanning_tunneling_microscope
  - https://en.wikipedia.org/wiki/Atomic-force_microscopy
+ - https://en.wikipedia.org/wiki/Finite-state_transducer
