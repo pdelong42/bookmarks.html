@@ -1,3 +1,4 @@
+ - https://en.wikipedia.org/wiki/Proxima_Centauri_b
  - https://en.wikipedia.org/wiki/Soil
  - https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking
  - https://en.wikipedia.org/wiki/Einstein_ring
@@ -499,3 +500,5 @@
  - https://en.wikipedia.org/wiki/Scanning_tunneling_microscope
  - https://en.wikipedia.org/wiki/Atomic-force_microscopy
  - https://en.wikipedia.org/wiki/Finite-state_transducer
+ - https://en.wikipedia.org/wiki/Proxima_Centauri
+ - https://en.wikipedia.org/wiki/Red_dwarf
