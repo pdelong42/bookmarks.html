@@ -52,3 +52,5 @@
  - http://redsymbol.net/articles/unofficial-bash-strict-mode/
    Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)
    (I intend to start using this shortly)
+
+ - http://introvertdear.com/2016/08/11/yes-there-is-such-a-thing-as-an-introvert-hangover/
