@@ -496,3 +496,5 @@
  - https://en.wikipedia.org/wiki/Data_parallelism
  - https://en.wikipedia.org/wiki/NumPy
  - https://en.wikipedia.org/wiki/SciPy
+ - https://en.wikipedia.org/wiki/Scanning_tunneling_microscope
+ - https://en.wikipedia.org/wiki/Atomic-force_microscopy
