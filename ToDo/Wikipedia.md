@@ -503,3 +503,5 @@
  - https://en.wikipedia.org/wiki/Proxima_Centauri
  - https://en.wikipedia.org/wiki/Red_dwarf
  - https://en.wikipedia.org/wiki/LINPACK_benchmarks
+ - https://en.wikipedia.org/wiki/Lisa_Randall
+ - https://en.wikipedia.org/wiki/David_Bohm
