@@ -502,3 +502,4 @@
  - https://en.wikipedia.org/wiki/Finite-state_transducer
  - https://en.wikipedia.org/wiki/Proxima_Centauri
  - https://en.wikipedia.org/wiki/Red_dwarf
+ - https://en.wikipedia.org/wiki/LINPACK_benchmarks
