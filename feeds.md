@@ -46,6 +46,10 @@ Science and tech:
  - http://www.billconnelly.net/
  - http://www.paulgraham.com/articles.html
  - https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day/Archive
+ - https://twitter.com/ksylor
+ - https://twitter.com/scarletdrive
+ - https://twitter.com/humansofny
+ - http://redsymbol.net/
 
 Nerd entertainment:
 
