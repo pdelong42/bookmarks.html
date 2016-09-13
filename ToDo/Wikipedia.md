@@ -505,3 +505,4 @@
  - https://en.wikipedia.org/wiki/LINPACK_benchmarks
  - https://en.wikipedia.org/wiki/Lisa_Randall
  - https://en.wikipedia.org/wiki/David_Bohm
+ - https://en.wikipedia.org/wiki/Numerical_integration
