@@ -1,5 +1,6 @@
  - https://en.wikipedia.org/wiki/Proxima_Centauri_b
  - https://en.wikipedia.org/wiki/Soil
+ - https://en.wikipedia.org/wiki/Graphics_Core_Next
  - https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking
  - https://en.wikipedia.org/wiki/Einstein_ring
  - https://en.wikipedia.org/wiki/Two_Generals%27_Problem
@@ -336,7 +337,6 @@
  - https://en.wikipedia.org/wiki/Gravitational-wave_astronomy
  - https://en.wikipedia.org/wiki/Gravitational-wave_observatory
  - https://en.wikipedia.org/wiki/Gini_coefficient
- - https://en.wikipedia.org/wiki/Graphics_Core_Next
  - https://en.wikipedia.org/wiki/DEEP-IN
  - https://en.wikipedia.org/wiki/Coriolis_force
  - https://en.wikipedia.org/wiki/Transactional_memory
