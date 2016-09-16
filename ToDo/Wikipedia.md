@@ -508,3 +508,4 @@
  - https://en.wikipedia.org/wiki/Numerical_integration
  - https://en.wikipedia.org/wiki/Fraunhofer_lines
  - https://en.wikipedia.org/wiki/Acorn_Computers
+ - https://en.wikipedia.org/wiki/Saturation_arithmetic
