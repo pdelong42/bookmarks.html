@@ -1,4 +1,3 @@
- - https://en.wikipedia.org/wiki/Quantum_Experiments_at_Space_Scale
  - https://en.wikipedia.org/wiki/Ethereum
  - https://en.wikipedia.org/wiki/Proxima_Centauri_b
  - https://en.wikipedia.org/wiki/Soil
@@ -514,3 +513,8 @@
  - https://en.wikipedia.org/wiki/Wire_chamber
  - https://en.wikipedia.org/wiki/Pedosphere
  - https://en.wikipedia.org/wiki/Soil_governance
+ - https://en.wikipedia.org/wiki/Five-year_plans_of_China
+ - https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center
+ - https://en.wikipedia.org/wiki/Sagnac_effect
+ - https://en.wikipedia.org/wiki/Principle_of_locality
+ - https://en.wikipedia.org/wiki/Local_hidden_variable_theory
