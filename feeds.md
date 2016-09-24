@@ -35,6 +35,9 @@ Science and tech:
  - https://twitter.com/maryrosecook
    another somebody worth reading
 
+ - https://aphyr.com/
+   another somebody worth reading
+
  - http://chadfowler.com/
  - http://daemianmack.com/
  - http://david-mcneil.com/
