@@ -518,3 +518,4 @@
  - https://en.wikipedia.org/wiki/Sagnac_effect
  - https://en.wikipedia.org/wiki/Principle_of_locality
  - https://en.wikipedia.org/wiki/Local_hidden_variable_theory
+ - https://en.wikipedia.org/wiki/Solum
