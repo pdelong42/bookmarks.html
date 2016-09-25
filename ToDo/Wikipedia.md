@@ -520,3 +520,4 @@
  - https://en.wikipedia.org/wiki/Local_hidden_variable_theory
  - https://en.wikipedia.org/wiki/Solum
  - https://en.wikipedia.org/wiki/Multivac
+ - https://en.wikipedia.org/wiki/International_Phonetic_Alphabet
