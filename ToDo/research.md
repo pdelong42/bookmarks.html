@@ -76,3 +76,6 @@
 
  - https://www.terraform.io/
    "infrastructure as code"
+
+ - http://hadoopecosystemtable.github.io/
+   The Hadoop Ecosystem Table
