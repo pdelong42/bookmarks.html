@@ -521,3 +521,4 @@
  - https://en.wikipedia.org/wiki/Solum
  - https://en.wikipedia.org/wiki/Multivac
  - https://en.wikipedia.org/wiki/International_Phonetic_Alphabet
+ - https://en.wikipedia.org/wiki/Internationalization_and_localization
