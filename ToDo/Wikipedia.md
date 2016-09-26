@@ -525,3 +525,5 @@
  - https://en.wikipedia.org/wiki/Rings_of_Saturn
  - https://en.wikipedia.org/wiki/Colloid
  - https://en.wikipedia.org/wiki/Ibn_al-%27Awwam
+ - https://en.wikipedia.org/wiki/Cassianus_Bassus
+ - https://en.wikipedia.org/wiki/Ibn_Wahshiyya
