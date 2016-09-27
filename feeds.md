@@ -38,6 +38,9 @@ Science and tech:
  - https://aphyr.com/
    another somebody worth reading
 
+ - https://twitter.com/themadstone
+   another somebody worth reading
+
  - http://chadfowler.com/
  - http://daemianmack.com/
  - http://david-mcneil.com/
