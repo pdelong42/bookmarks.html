@@ -41,6 +41,9 @@ Science and tech:
  - https://twitter.com/themadstone
    another somebody worth reading
 
+ - https://twitter.com/CatherineQ
+   another somebody worth reading
+
  - http://chadfowler.com/
  - http://daemianmack.com/
  - http://david-mcneil.com/
