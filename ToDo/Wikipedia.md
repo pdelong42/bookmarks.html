@@ -1,3 +1,4 @@
+ - https://en.wikipedia.org/wiki/Boolean_Pythagorean_triples_problem
  - https://en.wikipedia.org/wiki/Const_(computer_programming)
  - https://en.wikipedia.org/wiki/Leopold_and_Rudolf_Blaschka
  - https://en.wikipedia.org/wiki/Ethereum
