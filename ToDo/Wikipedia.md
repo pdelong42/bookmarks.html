@@ -1,4 +1,3 @@
- - https://en.wikipedia.org/wiki/Zeigarnik_effect
  - https://en.wikipedia.org/wiki/Const_(computer_programming)
  - https://en.wikipedia.org/wiki/Leopold_and_Rudolf_Blaschka
  - https://en.wikipedia.org/wiki/Ethereum
@@ -532,3 +531,5 @@
  - https://en.wikipedia.org/wiki/Ibn_Wahshiyya
  - https://en.wikipedia.org/wiki/Noh
  - https://en.wikipedia.org/wiki/Quotation_mark
+ - https://en.wikipedia.org/wiki/Getting_Things_Done
+ - https://en.wikipedia.org/wiki/List_of_cognitive_biases
