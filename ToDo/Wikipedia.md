@@ -1,4 +1,4 @@
- - https://en.wikipedia.org/wiki/Boolean_Pythagorean_triples_problem
+ - https://en.wikipedia.org/wiki/Ramsey_theory
  - https://en.wikipedia.org/wiki/Const_(computer_programming)
  - https://en.wikipedia.org/wiki/Leopold_and_Rudolf_Blaschka
  - https://en.wikipedia.org/wiki/Ethereum
@@ -534,3 +534,4 @@
  - https://en.wikipedia.org/wiki/Quotation_mark
  - https://en.wikipedia.org/wiki/Getting_Things_Done
  - https://en.wikipedia.org/wiki/List_of_cognitive_biases
+ - https://en.wikipedia.org/wiki/Texas_Advanced_Computing_Center
