@@ -1,3 +1,5 @@
+ - https://en.wikipedia.org/wiki/MurmurHash
+ - https://en.wikipedia.org/wiki/HyperLogLog
  - https://en.wikipedia.org/wiki/Ramsey_theory
  - https://en.wikipedia.org/wiki/Const_(computer_programming)
  - https://en.wikipedia.org/wiki/Leopold_and_Rudolf_Blaschka
