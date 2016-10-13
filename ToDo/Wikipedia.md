@@ -535,3 +535,4 @@
  - https://en.wikipedia.org/wiki/Getting_Things_Done
  - https://en.wikipedia.org/wiki/List_of_cognitive_biases
  - https://en.wikipedia.org/wiki/Texas_Advanced_Computing_Center
+ - https://en.wikipedia.org/wiki/Edward_Tufte
