@@ -20,3 +20,9 @@ Science and tech:
 
  - https://www.google.com/finance
    Something I should be checking more often than I do.
+
+ - https://www.edwardtufte.com/tufte/
+   THE WORK OF EDWARD TUFTE AND GRAPHICS PRESS
+
+ - http://norvig.com/mayzner.html
+   English Letter Frequency Counts
