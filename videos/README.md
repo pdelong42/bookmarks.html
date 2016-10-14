@@ -1,6 +1,6 @@
 This directory contains a curated collection of links I've found,
-since becoming addicted to "slow TV"
-(cf. https://en.wikipedia.org/wiki/Slow_television).
+since becoming addicted to [slow
+TV](https://en.wikipedia.org/wiki/Slow_television).
 
 When I first learned about the Bergensbanen video, I obsesssively
 searched for and downloaded any related material I could find.  The
@@ -30,4 +30,4 @@ Point it at one or more files and folders, containing the videos you
 want as your screensavers, and tweak the options to your liking.
 
 The curated links themselves are split into multiple files by category
-(only two so-far): trains and boats
+(only two so-far): [trains](trains.md) and [boats](boats.md)
