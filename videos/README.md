@@ -31,3 +31,11 @@ want as your screensavers, and tweak the options to your liking.
 
 The curated links themselves are split into multiple files by category
 (only two so-far): [trains](trains.md) and [boats](boats.md)
+
+Incidentally, for any of the NRK-produced content referenced in this
+collection, the videos can also be played through their mobile app
+(aptly named "NRK").  Some videos are *only* available through their
+app (or their main website).  Most notably (IMHO), the app can be used
+to play on a TV Internet appliance (Chromecast, AppleTV, Amazon Fire
+stick, etc.).  I peronally use it with my Chromecast a lot.  For now,
+the NRK app doesn't seem to be restricted to only Norway.
