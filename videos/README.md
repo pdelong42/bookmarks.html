@@ -11,6 +11,20 @@ the impression that I'm a bid odd (not a stretch, really).  Here are
 some links to help you, should you wish to embark upon a similar
 endeavour:
 
+Transmission:
+
+ - https://transmissionbt.com/
+
+You don't *need* to use BitTorrent but I'm putting this here in case
+you want to get the video "from the source".  There are many
+BitTorrent clients out there to choose from, but this one is my
+personal preference (it's no-frills, to-the-point, and doesn't attempt
+to be a multimedia platform like iTunes).
+
+When I first started with this pursuit, I downloaded all the videos I
+could via BitTorrent.  But that's not strictly necessary now that most
+of the content has been uploaded to YouTube by various folks.
+
 Download videos from YouTube (and more sites):
 
  - https://rg3.github.io/youtube-dl/
@@ -32,7 +46,7 @@ want as your screensavers, and tweak the options to your liking.
 The curated links themselves are split into multiple files by category
 (only two so-far): [trains](trains.md) and [boats](boats.md)
 
-Incidentally, for any of the NRK-produced content referenced in this
+Incidentally, for much of the NRK-produced content referenced in this
 collection, the videos can also be played through their mobile app
 (aptly named "NRK").  Some videos are *only* available through their
 app (or their main website).  Most notably (IMHO), the app can be used
