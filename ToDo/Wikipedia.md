@@ -4,6 +4,7 @@
  - https://en.wikipedia.org/wiki/World_Wide_Name
  - https://en.wikipedia.org/wiki/TOP500
  - https://en.wikipedia.org/wiki/Const_(computer_programming)
+ - https://en.wikipedia.org/wiki/Hamiltonian_mechanics
  - https://en.wikipedia.org/wiki/Leopold_and_Rudolf_Blaschka
  - https://en.wikipedia.org/wiki/Ethereum
  - https://en.wikipedia.org/wiki/Proxima_Centauri_b
@@ -258,7 +259,6 @@
  - https://en.wikipedia.org/wiki/Lagrangian_mechanics
  - https://en.wikipedia.org/wiki/Noether%27s_theorem
  - https://en.wikipedia.org/wiki/Principle_of_least_action
- - https://en.wikipedia.org/wiki/Hamiltonian_mechanics
  - https://en.wikipedia.org/wiki/Functional_derivative
  - https://en.wikipedia.org/wiki/Beltrami_identity
  - https://en.wikipedia.org/wiki/Analytical_mechanics
@@ -540,3 +540,4 @@
  - https://en.wikipedia.org/wiki/List_of_cognitive_biases
  - https://en.wikipedia.org/wiki/Texas_Advanced_Computing_Center
  - https://en.wikipedia.org/wiki/Edward_Tufte
+ - https://en.wikipedia.org/wiki/Symplectic_integrator
