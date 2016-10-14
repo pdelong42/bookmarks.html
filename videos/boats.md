@@ -1,32 +1,39 @@
 ### Telemarkskanalen
 
-https://tv.nrk.no/serie/telemarkskanalen-minutt-for-minutt-tv/DVFJ60002512/25-08-2012
+ - https://tv.nrk.no/serie/telemarkskanalen-minutt-for-minutt-tv/DVFJ60002512/25-08-2012
 
-https://nrkbeta.no/2012/11/12/endelig-last-ned-telemarkskanalen-minutt-for-minutt/
+ - https://nrkbeta.no/2012/11/12/endelig-last-ned-telemarkskanalen-minutt-for-minutt/
 
-https://nrkbeta.no/2012/08/21/telemarkskanalen-minutt-for-minutt/
+ - https://nrkbeta.no/2012/08/21/telemarkskanalen-minutt-for-minutt/
 
 ### Hurtigruten
 
-https://tv.nrk.no/serie/hurtigruten-minutt-for-minutt
+ - https://tv.nrk.no/serie/hurtigruten-minutt-for-minutt
 
-https://tv.nrk.no/serie/hurtigruten-365
+ - https://tv.nrk.no/serie/hurtigruten-365
 
-https://no.wikipedia.org/wiki/Hurtigruten_minutt_for_minutt
+ - https://no.wikipedia.org/wiki/Hurtigruten_minutt_for_minutt
 
-https://nrkbeta.no/2011/06/16/hurtigruten-eng/
-https://nrkbeta.no/2011/06/16/hurtigruten/
+ - https://nrkbeta.no/2011/06/16/hurtigruten-eng/ (English)
+ - https://nrkbeta.no/2011/06/16/hurtigruten/ (Norwegian)
 
-https://nrkbeta.no/2011/12/21/hurtigrutenbonanza-splitterny-full-hd-nedlasting-bittorrent-hele-sendingen/
+ - https://nrkbeta.no/2011/12/21/hurtigrutenbonanza-splitterny-full-hd-nedlasting-bittorrent-hele-sendingen/
 
-http://nl.nrk.no/torrent/hurtigruten/Hurtigruten.x264.1920x1080.NRK2r.torrent
+Torrent links:
 
-http://nrk.no/hurtigruten/feed.html
+ - http://nl.nrk.no/torrent/hurtigruten/Hurtigruten.x264.1920x1080.NRK2r.torrent
 
-### scrape these links for more
+ - http://nrk.no/hurtigruten/feed.html
 
-http://blogg.frankeivind.net/2011/07/10/hurtigruten-timelapse-fra-havn-til-havn/
+### ToDo - scrape these links for more
 
-http://stanislavs.org/videoprojects/?page_id=6
+ - http://blogg.frankeivind.net/2011/07/10/hurtigruten-timelapse-fra-havn-til-havn/
 
-http://nrk.no/hurtigruten/index9ed2.html?lang=en
+ - http://stanislavs.org/videoprojects/?page_id=6
+
+ - http://nrk.no/hurtigruten/index9ed2.html?lang=en
+
+### ToDo
+
+ - clean this up, and add some expository text - right now this is
+   just a raw brain dump
