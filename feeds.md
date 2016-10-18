@@ -45,6 +45,7 @@ Science and tech:
    another somebody worth reading
 
  - http://rachellevanger.com/
+ - http://jiahuang.github.io/
  - http://chadfowler.com/
  - http://daemianmack.com/
  - http://david-mcneil.com/

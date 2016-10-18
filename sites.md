@@ -26,3 +26,6 @@ Science and tech:
 
  - http://norvig.com/mayzner.html
    English Letter Frequency Counts
+
+ - https://wiki.soimort.org/
+   Mort's small traces

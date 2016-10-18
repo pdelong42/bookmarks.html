@@ -79,3 +79,24 @@
 
  - http://hadoopecosystemtable.github.io/
    The Hadoop Ecosystem Table
+
+ - https://lwn.net/Articles/484470/
+   [RFC] Add btrfs autosnap feature
+
+ - https://lwn.net/Articles/579009/
+   Btrfs: Subvolumes and snapshots
+
+ - https://lwn.net/Articles/576276/
+   The Btrfs filesystem: An introduction
+
+ - https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/Storage_Administration_Guide/ch-btrfs.html
+   CHAPTER 3. BTRFS (TECHNOLOGY PREVIEW)
+
+ - http://www.spinics.net/lists/linux-btrfs/msg19499.html
+   Re: working quota example?
+
+ - https://lwn.net/Articles/292778/
+   [TALPA] Intro to a linux interface for on access scanning
+
+ - http://www.openconfig.net/
+   OpenConfig: Vendor-neutral, model-driven network management designed by users
