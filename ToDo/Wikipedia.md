@@ -1,3 +1,4 @@
+ - https://en.wikipedia.org/wiki/NVM_Express
  - https://en.wikipedia.org/wiki/MurmurHash
  - https://en.wikipedia.org/wiki/HyperLogLog
  - https://en.wikipedia.org/wiki/Ramsey_theory
@@ -542,3 +543,5 @@
  - https://en.wikipedia.org/wiki/Edward_Tufte
  - https://en.wikipedia.org/wiki/Input%E2%80%93output_memory_management_unit
  - https://en.wikipedia.org/wiki/Symplectic_integrator
+ - https://en.wikipedia.org/wiki/SATA_Express
+ - https://en.wikipedia.org/wiki/M.2
