@@ -543,5 +543,6 @@
  - https://en.wikipedia.org/wiki/Edward_Tufte
  - https://en.wikipedia.org/wiki/Input%E2%80%93output_memory_management_unit
  - https://en.wikipedia.org/wiki/Symplectic_integrator
+ - https://en.wikipedia.org/wiki/Haversine_formula
  - https://en.wikipedia.org/wiki/SATA_Express
  - https://en.wikipedia.org/wiki/M.2
