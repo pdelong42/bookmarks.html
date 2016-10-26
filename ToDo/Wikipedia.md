@@ -546,3 +546,5 @@
  - https://en.wikipedia.org/wiki/Haversine_formula
  - https://en.wikipedia.org/wiki/SATA_Express
  - https://en.wikipedia.org/wiki/M.2
+ - https://en.wikipedia.org/wiki/Integrated_Device_Technology
+ - https://en.wikipedia.org/wiki/RapidIO
