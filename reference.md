@@ -27,3 +27,7 @@
 
  - https://www.nostarch.com/learnscratchresources
    Learn to Program with Scratch Resources
+
+ - https://www.atlassian.com/git/
+   https://www.atlassian.com/git/tutorials
+   Atlassian actually has some good tutorials and other resources for Git
