@@ -54,3 +54,6 @@
    (I intend to start using this shortly)
 
  - http://introvertdear.com/2016/08/11/yes-there-is-such-a-thing-as-an-introvert-hangover/
+
+ - https://lwn.net/Articles/569703/
+   vmpslice support for zero-copy gifting of pages
