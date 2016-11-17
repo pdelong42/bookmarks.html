@@ -1,4 +1,3 @@
- - https://en.wikipedia.org/wiki/FastCGI
  - https://en.wikipedia.org/wiki/MurmurHash
  - https://en.wikipedia.org/wiki/HyperLogLog
  - https://en.wikipedia.org/wiki/Ramsey_theory
