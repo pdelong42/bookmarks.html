@@ -1,4 +1,3 @@
- - https://en.wikipedia.org/wiki/Representational_state_transfer
  - https://en.wikipedia.org/wiki/J-coupling
  - https://en.wikipedia.org/wiki/SOAP
  - https://en.wikipedia.org/wiki/Web_Services_Description_Language
@@ -554,3 +553,5 @@
  - https://en.wikipedia.org/wiki/Nippon_Professional_Baseball
  - https://en.wikipedia.org/wiki/Joseph_Henry
  - https://en.wikipedia.org/wiki/Multics
+ - https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
+ - https://en.wikipedia.org/wiki/ACID
