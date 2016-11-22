@@ -1,3 +1,6 @@
+ - https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms
+ - https://en.wikipedia.org/wiki/Automatically_Tuned_Linear_Algebra_Software
+ - https://en.wikipedia.org/wiki/LAPACK
  - https://en.wikipedia.org/wiki/Merkle_tree
  - https://en.wikipedia.org/wiki/J-coupling
  - https://en.wikipedia.org/wiki/SOAP
