@@ -1,3 +1,4 @@
+ - https://en.wikipedia.org/wiki/Montgomery_modular_multiplication
  - https://en.wikipedia.org/wiki/GeoJSON
  - https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo
  - https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms
@@ -561,3 +562,4 @@
  - https://en.wikipedia.org/wiki/Multics
  - https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
  - https://en.wikipedia.org/wiki/ACID
+ - https://en.wikipedia.org/wiki/Barrett_reduction
