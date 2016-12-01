@@ -100,3 +100,9 @@
 
  - http://www.openconfig.net/
    OpenConfig: Vendor-neutral, model-driven network management designed by users
+
+ - https://lwn.net/Articles/552904/
+   "The multiqueue block layer"
+   I've read the article (and comments), but I would like to follow
+   links to references, and look at the kernel itself to see at what
+   stage this subsystem's maturity is.
