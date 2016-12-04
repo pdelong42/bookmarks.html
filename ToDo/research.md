@@ -106,3 +106,11 @@
    I've read the article (and comments), but I would like to follow
    links to references, and look at the kernel itself to see at what
    stage this subsystem's maturity is.
+
+ - https://lwn.net/Articles/553086/
+   "Why doesn't the kernel writeback all the time?"
+   related to the previous link
+
+ - https://lwn.net/Kernel/LDD3/
+   "Linux Device Drivers, Third Edition"
+   free book; find-out how current this information is
