@@ -563,3 +563,5 @@
  - https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
  - https://en.wikipedia.org/wiki/ACID
  - https://en.wikipedia.org/wiki/Barrett_reduction
+ - https://en.wikipedia.org/wiki/B%C3%A9zout%27s_identity
+ - https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm
