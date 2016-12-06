@@ -57,3 +57,6 @@
 
  - https://lwn.net/Articles/569703/
    vmpslice support for zero-copy gifting of pages
+
+ - https://gist.github.com/jbgo/1944238
+   How to recover a git branch you accidentally deleted
