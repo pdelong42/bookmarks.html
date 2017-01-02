@@ -21,9 +21,6 @@
  - https://en.wikipedia.org/wiki/Btrfs
    follow external links, and look into distributed and NAS filesytems linked in the category box
 
- - https://lwn.net/Articles/576276/
-   follow links to further installments
-
  - https://en.wikipedia.org/wiki/ATLAS_experiment
    follow the external links and category-box links
 
@@ -56,7 +53,19 @@
  - http://introvertdear.com/2016/08/11/yes-there-is-such-a-thing-as-an-introvert-hangover/
 
  - https://lwn.net/Articles/569703/
-   vmpslice support for zero-copy gifting of pages
+   "vmpslice support for zero-copy gifting of pages"
+
+ - https://lwn.net/Articles/552904/
+   "The multiqueue block layer"
+
+ - https://lwn.net/Articles/547903/
+   "LFCS: Preparing Linux for nonvolatile memory devices"
+
+ - https://lwn.net/Articles/497024/
+   "A bcache update"
+
+ - https://lwn.net/Articles/576276/
+   follow links to further installments
 
  - https://gist.github.com/jbgo/1944238
    How to recover a git branch you accidentally deleted
