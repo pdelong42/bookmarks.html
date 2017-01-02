@@ -67,3 +67,5 @@
    which conditions are applied to select a VirtualHost, and exactly
    what inputs are used when.
 
+ - http://stackoverflow.com/questions/4493936/could-i-change-my-name-and-surname-in-all-previous-commits
+   "Could I change my name and surname in all previous commits?"
