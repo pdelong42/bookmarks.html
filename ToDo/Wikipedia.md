@@ -1,3 +1,4 @@
+ - https://en.wikipedia.org/wiki/Gray_code
  - https://en.wikipedia.org/wiki/Eduroam
  - https://en.wikipedia.org/wiki/Foucault_pendulum
  - https://en.wikipedia.org/wiki/YKK
