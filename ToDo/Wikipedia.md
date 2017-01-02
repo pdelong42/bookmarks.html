@@ -1,5 +1,9 @@
+ - https://en.wikipedia.org/wiki/Bitcoin
+ - https://en.wikipedia.org/wiki/Bitcoin_network
  - https://en.wikipedia.org/wiki/Phase-shift_keying
  - https://en.wikipedia.org/wiki/Quadrature_amplitude_modulation
+ - https://en.wikipedia.org/wiki/Distributed_database
+ - https://en.wikipedia.org/wiki/Proof-of-work_system
  - https://en.wikipedia.org/wiki/Nd:YAG_laser
  - https://en.wikipedia.org/wiki/Alphabus
  - https://en.wikipedia.org/wiki/Homodyne_detection
