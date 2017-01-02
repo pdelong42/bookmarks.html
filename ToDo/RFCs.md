@@ -27,3 +27,6 @@
 
  - https://tools.ietf.org/html/rfc3208
    PGM Reliable Transport Protocol Specification
+
+ - http://www.ietf.org/rfc/rfc4366.txt
+   "Transport Layer Security (TLS) Extensions"

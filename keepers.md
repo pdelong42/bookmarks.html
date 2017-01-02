@@ -60,3 +60,10 @@
 
  - https://gist.github.com/jbgo/1944238
    How to recover a git branch you accidentally deleted
+
+ - https://wiki.apache.org/httpd/NameBasedSSLVHostsWithSNI
+   "SSL with Virtual Hosts Using SNI"
+   Revisit this later, to get a better idea of the logical sequence in
+   which conditions are applied to select a VirtualHost, and exactly
+   what inputs are used when.
+
