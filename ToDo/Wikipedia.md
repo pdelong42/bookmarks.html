@@ -1,3 +1,4 @@
+ - https://en.wikipedia.org/wiki/Foucault_pendulum
  - https://en.wikipedia.org/wiki/Bitcoin
  - https://en.wikipedia.org/wiki/Bitcoin_network
  - https://en.wikipedia.org/wiki/Phase-shift_keying
