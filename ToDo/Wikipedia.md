@@ -1,3 +1,8 @@
+ - https://en.wikipedia.org/wiki/Phase-shift_keying
+ - https://en.wikipedia.org/wiki/Quadrature_amplitude_modulation
+ - https://en.wikipedia.org/wiki/Nd:YAG_laser
+ - https://en.wikipedia.org/wiki/Alphabus
+ - https://en.wikipedia.org/wiki/Homodyne_detection
  - https://en.wikipedia.org/wiki/Seven_Stars_in_Kyushu (follow links and record here)
  - https://en.wikipedia.org/wiki/Montgomery_modular_multiplication
  - https://en.wikipedia.org/wiki/GeoJSON
