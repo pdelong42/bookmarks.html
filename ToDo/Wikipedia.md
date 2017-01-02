@@ -567,3 +567,4 @@
  - https://en.wikipedia.org/wiki/Link_Layer_Discovery_Protocol
  - https://en.wikipedia.org/wiki/B%C3%A9zout%27s_identity
  - https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm
+ - https://en.wikipedia.org/wiki/Japan_Railways_Group
