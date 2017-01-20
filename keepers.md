@@ -61,6 +61,9 @@
  - https://lwn.net/Articles/547903/
    "LFCS: Preparing Linux for nonvolatile memory devices"
 
+ - https://lwn.net/Articles/394672/
+   "Bcache: Caching beyond just RAM"
+
  - https://lwn.net/Articles/497024/
    "A bcache update"
 
