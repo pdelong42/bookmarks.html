@@ -584,5 +584,6 @@
  - https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm
  - https://en.wikipedia.org/wiki/Japan_Railways_Group
  - https://en.wikipedia.org/wiki/Topological_quantum_computer
+ - https://en.wikipedia.org/wiki/Uncanny_valley
  - https://en.wikipedia.org/wiki/I2P
  - https://en.wikipedia.org/wiki/Tissot%27s_indicatrix
