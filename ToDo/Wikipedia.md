@@ -1,7 +1,6 @@
  - https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process
  - https://en.wikipedia.org/wiki/Dark_web
  - https://en.wikipedia.org/wiki/Gray_code
- - https://en.wikipedia.org/wiki/Eduroam
  - https://en.wikipedia.org/wiki/Foucault_pendulum
  - https://en.wikipedia.org/wiki/YKK
  - https://en.wikipedia.org/wiki/Bitcoin
