@@ -1,4 +1,3 @@
- - https://en.wikipedia.org/wiki/Xeon_Phi
  - https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process
  - https://en.wikipedia.org/wiki/Dark_web
  - https://en.wikipedia.org/wiki/Gray_code
@@ -588,3 +587,7 @@
  - https://en.wikipedia.org/wiki/Uncanny_valley
  - https://en.wikipedia.org/wiki/I2P
  - https://en.wikipedia.org/wiki/Tissot%27s_indicatrix
+ - https://en.wikipedia.org/wiki/Intel_Tera-Scale
+ - https://en.wikipedia.org/wiki/Cell_(microprocessor)
+ - https://en.wikipedia.org/wiki/AMD_FireStream
+ - https://en.wikipedia.org/wiki/Nvidia_Tesla
