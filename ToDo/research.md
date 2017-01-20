@@ -117,3 +117,14 @@
 
  - https://bcache.evilpiepirate.org/
    "Bcachefs"
+
+ - http://paperswelove.org/
+   "Papers We Love"
+
+ - http://ncase.me/polygons/
+   "Parable of the Polygons - a playable post on the shape of society"
+   ToDo: follow the links to various papers referenced at the end
+
+ - http://ncase.me/
+   "Nicky Case"
+   ToDo: try other games and simulations on this site
