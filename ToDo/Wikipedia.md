@@ -594,3 +594,4 @@
  - https://en.wikipedia.org/wiki/Nvidia_Tesla
  - https://en.wikipedia.org/wiki/Ethereum
  - https://en.wikipedia.org/wiki/Penrose_diagram
+ - https://en.wikipedia.org/wiki/Quantum_mechanics
