@@ -595,3 +595,5 @@
  - https://en.wikipedia.org/wiki/Ethereum
  - https://en.wikipedia.org/wiki/Penrose_diagram
  - https://en.wikipedia.org/wiki/Quantum_mechanics
+ - https://en.wikipedia.org/wiki/Lee_Smolin (physicist)
+ - https://en.wikipedia.org/wiki/Leonard_Susskind (physicist)
