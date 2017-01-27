@@ -4,7 +4,6 @@
  - https://en.wikipedia.org/wiki/Gray_code
  - https://en.wikipedia.org/wiki/Foucault_pendulum
  - https://en.wikipedia.org/wiki/YKK
- - https://en.wikipedia.org/wiki/Bitcoin
  - https://en.wikipedia.org/wiki/Bitcoin_network
  - https://en.wikipedia.org/wiki/Phase-shift_keying
  - https://en.wikipedia.org/wiki/Quadrature_amplitude_modulation
@@ -597,3 +596,5 @@
  - https://en.wikipedia.org/wiki/Quantum_mechanics
  - https://en.wikipedia.org/wiki/Lee_Smolin (physicist)
  - https://en.wikipedia.org/wiki/Leonard_Susskind (physicist)
+ - https://en.wikipedia.org/wiki/Template:Bitcoin
+ - https://en.wikipedia.org/wiki/Template:Cryptocurrencies
