@@ -594,9 +594,9 @@
  - https://en.wikipedia.org/wiki/AMD_FireStream
  - https://en.wikipedia.org/wiki/Nvidia_Tesla
  - https://en.wikipedia.org/wiki/Ethereum
- - https://en.wikipedia.org/wiki/Penrose_diagram
  - https://en.wikipedia.org/wiki/Quantum_mechanics
  - https://en.wikipedia.org/wiki/Lee_Smolin (physicist)
  - https://en.wikipedia.org/wiki/Leonard_Susskind (physicist)
  - https://en.wikipedia.org/wiki/Template:Bitcoin
  - https://en.wikipedia.org/wiki/Template:Cryptocurrencies
+ - https://en.wikipedia.org/wiki/Symbiogenesis
