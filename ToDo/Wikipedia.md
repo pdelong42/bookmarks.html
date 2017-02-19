@@ -607,3 +607,4 @@
  - https://en.wikipedia.org/wiki/Template:Cryptocurrencies
  - https://en.wikipedia.org/wiki/Symbiogenesis
  - https://en.wikipedia.org/wiki/Hashcat
+ - https://en.wikipedia.org/wiki/Friedrich_Bessel
