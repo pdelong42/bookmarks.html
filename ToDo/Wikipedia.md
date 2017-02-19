@@ -1,4 +1,5 @@
  - https://en.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_experiment
+ - https://en.wikipedia.org/wiki/Joseph_Weber
  - https://en.wikipedia.org/wiki/Firewall_(physics)
  - https://en.wikipedia.org/wiki/ER%3DEPR
  - https://en.wikipedia.org/wiki/Jo%C3%A3o_Magueijo
@@ -604,3 +605,4 @@
  - https://en.wikipedia.org/wiki/Template:Bitcoin
  - https://en.wikipedia.org/wiki/Template:Cryptocurrencies
  - https://en.wikipedia.org/wiki/Symbiogenesis
+ - https://en.wikipedia.org/wiki/Hashcat
