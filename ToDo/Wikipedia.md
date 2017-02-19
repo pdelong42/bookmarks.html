@@ -1,3 +1,6 @@
+ - https://en.wikipedia.org/wiki/Firewall_(physics)
+ - https://en.wikipedia.org/wiki/ER%3DEPR
+ - https://en.wikipedia.org/wiki/Jo%C3%A3o_Magueijo
  - https://en.wikipedia.org/wiki/Two-photon_physics
  - https://en.wikipedia.org/wiki/The_Theoretical_Minimum
  - https://en.wikipedia.org/wiki/Cosine_similarity
