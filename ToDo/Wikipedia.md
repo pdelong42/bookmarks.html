@@ -1,3 +1,4 @@
+ - https://en.wikipedia.org/wiki/TRAPPIST-1
  - https://en.wikipedia.org/wiki/Zooniverse
  - https://en.wikipedia.org/wiki/Joseph_Weber
  - https://en.wikipedia.org/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s
@@ -609,3 +610,4 @@
  - https://en.wikipedia.org/wiki/Hashcat
  - https://en.wikipedia.org/wiki/Friedrich_Bessel
  - https://en.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_effect
+ - https://en.wikipedia.org/wiki/TRAPPIST
