@@ -1,3 +1,5 @@
+ - https://en.wikipedia.org/wiki/Wait_Calculation
+ - https://en.wikipedia.org/wiki/Time_crystal
  - https://en.wikipedia.org/wiki/TRAPPIST-1
  - https://en.wikipedia.org/wiki/Quadrupole_ion_trap
  - https://en.wikipedia.org/wiki/Zooniverse
