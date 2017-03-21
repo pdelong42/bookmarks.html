@@ -2,6 +2,7 @@
  - https://en.wikipedia.org/wiki/Time_crystal
  - https://en.wikipedia.org/wiki/TRAPPIST-1
  - https://en.wikipedia.org/wiki/Quadrupole_ion_trap
+ - https://en.wikipedia.org/wiki/Equivalence_principle
  - https://en.wikipedia.org/wiki/Zooniverse
  - https://en.wikipedia.org/wiki/Joseph_Weber
  - https://en.wikipedia.org/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s
