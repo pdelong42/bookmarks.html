@@ -1,4 +1,3 @@
- - https://en.wikipedia.org/wiki/Lyman-alpha_forest
  - https://en.wikipedia.org/wiki/TRAPPIST-1
  - https://en.wikipedia.org/wiki/Quadrupole_ion_trap
  - https://en.wikipedia.org/wiki/Zooniverse
