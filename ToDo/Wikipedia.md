@@ -1,3 +1,5 @@
+ - https://en.wikipedia.org/wiki/Mathematics_of_general_relativity
+ - https://en.wikipedia.org/wiki/Tests_of_general_relativity
  - https://en.wikipedia.org/wiki/Time_crystal
  - https://en.wikipedia.org/wiki/TRAPPIST-1
  - https://en.wikipedia.org/wiki/Quadrupole_ion_trap
@@ -315,7 +317,6 @@
  - https://en.wikipedia.org/wiki/Glass
  - https://en.wikipedia.org/wiki/Baumol%27s_cost_disease
  - https://en.wikipedia.org/wiki/Cross-cap
- - https://en.wikipedia.org/wiki/Mathematics_of_general_relativity
  - https://en.wikipedia.org/wiki/Covariant_derivative
  - https://en.wikipedia.org/wiki/LIGO
  - https://en.wikipedia.org/wiki/Quasiparticle
@@ -337,7 +338,6 @@
  - https://en.wikipedia.org/wiki/Spherical_harmonics
  - https://en.wikipedia.org/wiki/ITER
  - https://en.wikipedia.org/wiki/Surface_science
- - https://en.wikipedia.org/wiki/Mathematics_of_general_relativity
  - https://en.wikipedia.org/wiki/Gravitational_wave
  - https://en.wikipedia.org/wiki/Battery_(electricity)
  - https://en.wikipedia.org/wiki/Orbit
@@ -380,7 +380,6 @@
  - https://en.wikipedia.org/wiki/INTEGRAL
  - https://en.wikipedia.org/wiki/ANTARES_(telescope)
  - https://en.wikipedia.org/wiki/Swift_Gamma-Ray_Burst_Mission
- - https://en.wikipedia.org/wiki/Tests_of_general_relativity
  - https://en.wikipedia.org/wiki/Gravitational-wave_astronomy
  - https://en.wikipedia.org/wiki/Gravitational-wave_observatory
  - https://en.wikipedia.org/wiki/Gini_coefficient
@@ -525,7 +524,6 @@
  - https://en.wikipedia.org/wiki/Extreme_mass_ratio_inspiral
  - https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault
  - https://en.wikipedia.org/wiki/QUIC (visit external links)
- - https://en.wikipedia.org/wiki/Mathematics_of_general_relativity
  - https://en.wikipedia.org/wiki/Levi-Civita_connection
  - https://en.wikipedia.org/wiki/Christoffel_symbols
  - https://en.wikipedia.org/wiki/Covariant_derivative
