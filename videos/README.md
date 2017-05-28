@@ -19,7 +19,7 @@ You don't *need* to use BitTorrent but I'm putting this here in case
 you want to get the video "from the source".  There are many
 BitTorrent clients out there to choose from, but this one is my
 personal preference (it's no-frills, to-the-point, and doesn't attempt
-to be a multimedia platform like iTunes).
+to be a competitor to iTunes, unlike some BT clients).
 
 When I first started with this pursuit, I downloaded all the videos I
 could via BitTorrent.  But that's not strictly necessary now that most
@@ -40,8 +40,12 @@ Save Hollywood:
 
 (...not that it was in any danger)
 
-Point it at one or more files and folders, containing the videos you
-want as your screensavers, and tweak the options to your liking.
+This is strictly for MacOS, but I'm sure there are equivalents for
+Linux and Windows (I just haven't tried finding them yet).
+
+Point Save Hollywood at one or more files and folders, containing the
+videos you want as your screensavers, and tweak the options to your
+liking.
 
 The curated links themselves are split into multiple files by category
 (only two so-far): [trains](trains.md) and [boats](boats.md)
