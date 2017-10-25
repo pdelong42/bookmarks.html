@@ -1,4 +1,5 @@
- - https://en.wikipedia.org/wiki/Edwin_C._Kemble
+ - https://en.wikipedia.org/wiki/Geiger_counter
+ - https://en.wikipedia.org/wiki/Geiger%E2%80%93M%C3%BCller_tube
  - https://en.wikipedia.org/wiki/Mathematics_of_general_relativity
  - https://en.wikipedia.org/wiki/Tests_of_general_relativity
  - https://en.wikipedia.org/wiki/Time_crystal
@@ -613,3 +614,8 @@
  - https://en.wikipedia.org/wiki/Friedrich_Bessel
  - https://en.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_effect
  - https://en.wikipedia.org/wiki/TRAPPIST
+ - https://en.wikipedia.org/wiki/Conjugate_gradient_method
+ - https://en.wikipedia.org/wiki/Cleanroom
+ - https://en.wikipedia.org/wiki/Superconducting_radio_frequency
+ - https://en.wikipedia.org/wiki/Umwelt
+ - https://en.wikipedia.org/wiki/Smart_pointer
