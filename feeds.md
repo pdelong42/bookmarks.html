@@ -60,6 +60,9 @@ Science and tech:
  - https://twitter.com/ksylor
  - https://twitter.com/scarletdrive
  - https://twitter.com/humansofny
+ - https://twitter.com/suziesheehy
+ - https://twitter.com/astraughnomer
+ - https://twitter.com/cmwalla
  - http://redsymbol.net/
 
 Nerd entertainment:
