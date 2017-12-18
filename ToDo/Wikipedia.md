@@ -1,4 +1,3 @@
- - https://en.wikipedia.org/wiki/Geiger_counter
  - https://en.wikipedia.org/wiki/Geiger%E2%80%93M%C3%BCller_tube
  - https://en.wikipedia.org/wiki/Mathematics_of_general_relativity
  - https://en.wikipedia.org/wiki/Tests_of_general_relativity
@@ -617,5 +616,13 @@
  - https://en.wikipedia.org/wiki/Conjugate_gradient_method
  - https://en.wikipedia.org/wiki/Cleanroom
  - https://en.wikipedia.org/wiki/Superconducting_radio_frequency
- - https://en.wikipedia.org/wiki/Umwelt
  - https://en.wikipedia.org/wiki/Smart_pointer
+ - https://en.wikipedia.org/wiki/Q_factor
+ - https://en.wikipedia.org/wiki/Perceptual_control_theory
+ - https://en.wikipedia.org/wiki/Semiosphere
+ - https://en.wikipedia.org/wiki/Reality_tunnel
+ - https://en.wikipedia.org/wiki/Qualia
+ - https://en.wikipedia.org/wiki/Semiotics
+ - https://en.wikipedia.org/wiki/Townsend_discharge
+ - https://en.wikipedia.org/wiki/Earnshaw%27s_theorem
+ - https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
