@@ -2,9 +2,12 @@
  - https://en.wikipedia.org/wiki/Mathematics_of_general_relativity
  - https://en.wikipedia.org/wiki/Tests_of_general_relativity
  - https://en.wikipedia.org/wiki/Time_crystal
+ - https://en.wikipedia.org/wiki/TRAPPIST
  - https://en.wikipedia.org/wiki/TRAPPIST-1
  - https://en.wikipedia.org/wiki/Quadrupole_ion_trap
  - https://en.wikipedia.org/wiki/Equivalence_principle
+ - https://en.wikipedia.org/wiki/Parallel_transport
+ - https://en.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_effect
  - https://en.wikipedia.org/wiki/Zooniverse
  - https://en.wikipedia.org/wiki/Joseph_Weber
  - https://en.wikipedia.org/wiki/Lor%C3%A1nd_E%C3%B6tv%C3%B6s
@@ -13,7 +16,11 @@
  - https://en.wikipedia.org/wiki/Jo%C3%A3o_Magueijo
  - https://en.wikipedia.org/wiki/Two-photon_physics
  - https://en.wikipedia.org/wiki/The_Theoretical_Minimum
+ - https://en.wikipedia.org/wiki/Spinor
+ - https://en.wikipedia.org/wiki/Covariance_and_contravariance_of_vectors
  - https://en.wikipedia.org/wiki/Cosine_similarity
+ - https://en.wikipedia.org/wiki/Riemannian_geometry
+ - https://en.wikipedia.org/wiki/Abstract_index_notation
  - https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process
  - https://en.wikipedia.org/wiki/Dark_web
  - https://en.wikipedia.org/wiki/Gray_code
@@ -288,7 +295,6 @@
  - https://en.wikipedia.org/wiki/Symplectic_manifold
  - https://en.wikipedia.org/wiki/Poisson_bracket
  - https://en.wikipedia.org/wiki/Dirac_equation
- - https://en.wikipedia.org/wiki/Spinor
  - https://en.wikipedia.org/wiki/K-D-B-tree
  - https://en.wikipedia.org/wiki/Oblivious_data_structure
  - https://en.wikipedia.org/wiki/Template:CS_trees
@@ -611,8 +617,6 @@
  - https://en.wikipedia.org/wiki/Symbiogenesis
  - https://en.wikipedia.org/wiki/Hashcat
  - https://en.wikipedia.org/wiki/Friedrich_Bessel
- - https://en.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_effect
- - https://en.wikipedia.org/wiki/TRAPPIST
  - https://en.wikipedia.org/wiki/Conjugate_gradient_method
  - https://en.wikipedia.org/wiki/Cleanroom
  - https://en.wikipedia.org/wiki/Superconducting_radio_frequency
@@ -625,4 +629,10 @@
  - https://en.wikipedia.org/wiki/Semiotics
  - https://en.wikipedia.org/wiki/Townsend_discharge
  - https://en.wikipedia.org/wiki/Earnshaw%27s_theorem
- - https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
+ - https://en.wikipedia.org/wiki/Representation_theory_of_the_Lorentz_group
+ - https://en.wikipedia.org/wiki/Representation_theory_of_SU(2)
+ - https://en.wikipedia.org/wiki/Representation_theory
+ - https://en.wikipedia.org/wiki/James_O%27Keefe
+ - https://en.wikipedia.org/wiki/Shot_noise
+ - https://en.wikipedia.org/wiki/Banana_Pi
+ - https://en.wikipedia.org/wiki/PfSense
