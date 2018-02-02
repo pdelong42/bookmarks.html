@@ -1,3 +1,4 @@
+ - https://en.wikipedia.org/wiki/Science_DMZ_Network_Architecture
  - https://en.wikipedia.org/wiki/Geiger%E2%80%93M%C3%BCller_tube
  - https://en.wikipedia.org/wiki/Mathematics_of_general_relativity
  - https://en.wikipedia.org/wiki/Tests_of_general_relativity
@@ -635,4 +636,10 @@
  - https://en.wikipedia.org/wiki/James_O%27Keefe
  - https://en.wikipedia.org/wiki/Shot_noise
  - https://en.wikipedia.org/wiki/Banana_Pi
- - https://en.wikipedia.org/wiki/PfSense
+ - https://en.wikipedia.org/wiki/Simson_Garfinkel
+ - https://en.wikipedia.org/wiki/Carnegie_Museum_of_Natural_History
+ - https://en.wikipedia.org/wiki/Slurm_Workload_Manager
+ - https://en.wikipedia.org/wiki/Gian-Carlo_Wick
+ - https://en.wikipedia.org/wiki/Wick_rotation
+ - https://en.wikipedia.org/wiki/Wick%27s_theorem
+ - https://en.wikipedia.org/wiki/Wick_product
