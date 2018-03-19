@@ -278,3 +278,15 @@
 
  - http://www.nancyhoffmangallery.com/artist/display/61/Concinnitas_Project
    Concinnitas Project
+
+
+ - http://enzo-project.org/
+   "The Enzo Project"
+
+ - https://www.schedmd.com/
+   "SchedMD | Slurm Support and Development"
+ - https://github.com/capsule8/capsule8
+   "GitHub - capsule8/capsule8: Capsule8: open-source cloud-native behavioral security monitoring"
+
+ - https://github.com/gbif/ipt
+   "GitHub - gbif/ipt: GBIF Integrated Publishing Toolkit (IPT)"
