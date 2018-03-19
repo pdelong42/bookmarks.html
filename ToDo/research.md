@@ -144,6 +144,11 @@
  - https://github.com/gvandela/MeteorRpiReceiver
    "gvandela/MeteorRpiReceiver: a set of python scripts to automatically capture, decode &amp; e-mail Meteor-M2 satellite images"
 
+ - https://www.tbrc.org/#!footer/about/newhome
+   "Buddhist Digital Resource Center"
+
+ - https://github.com/BuddhistDigitalResourceCenter
+   "Buddhist Digital Resource Center"
  - https://www.quantiki.org/
    "Quantiki | Quantum Information Portal and Wiki"
 
