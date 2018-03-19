@@ -304,8 +304,14 @@
  - https://github.com/gbif/ipt
    "GitHub - gbif/ipt: GBIF Integrated Publishing Toolkit (IPT)"
 
+ - https://github.com/oogali/ebs-automatic-nvme-mapping
+   "GitHub - oogali/ebs-automatic-nvme-mapping: Automatic mapping of EBS volumes via NVMe block devices to standard block device paths"
+
  - https://digiconomist.net/bitcoin-energy-consumption
    "Bitcoin Energy Consumption Index - Digiconomist"
+
+ - https://mapchart.net/
+   " Create Custom Map - MapChart"
 
  - https://www.investopedia.com/tech/how-does-bitcoin-mining-work/
    "How Does Bitcoin Mining Work? | Investopedia"
