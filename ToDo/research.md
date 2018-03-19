@@ -140,3 +140,21 @@
 
  - https://github.com/gvandela/MeteorRpiReceiver
    "gvandela/MeteorRpiReceiver: a set of python scripts to automatically capture, decode &amp; e-mail Meteor-M2 satellite images"
+
+ - https://www.quantiki.org/
+   "Quantiki | Quantum Information Portal and Wiki"
+
+ - https://quantumcurriculum.mit.edu/
+   "MIT Quantum Computing Curriculum"
+
+ - https://www.scottaaronson.com/democritus/
+   "PHYS771 Quantum Computing Since Democritus"
+
+ - http://iqim.caltech.edu/outreach/
+   "Outreach &#8211; IQIM"
+
+ - https://quantumexperience.ng.bluemix.net/qx/experience
+   "IBM Q Experience"
+
+ - https://www.research.ibm.com/ibm-q/
+   "Quantum Computing - IBM Q - US"
