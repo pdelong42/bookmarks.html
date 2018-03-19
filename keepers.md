@@ -81,3 +81,6 @@
 
  - http://stackoverflow.com/questions/4493936/could-i-change-my-name-and-surname-in-all-previous-commits
    "Could I change my name and surname in all previous commits?"
+
+ - https://powercompare.co.uk/bitcoin/
+   "Bitcoin Mining Now Consuming More Electricity Than 159 Countries Including Ireland &amp; Most Countries In Africa"
