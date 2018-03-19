@@ -138,6 +138,9 @@
  - https://www.rtl-sdr.com/
    RTL-SDR
 
+ - http://cosmicwatch.lns.mit.edu/
+   "CosmicWatch::catch yourself a muon"
+
  - https://github.com/gvandela/MeteorRpiReceiver
    "gvandela/MeteorRpiReceiver: a set of python scripts to automatically capture, decode &amp; e-mail Meteor-M2 satellite images"
 
