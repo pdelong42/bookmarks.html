@@ -296,3 +296,9 @@
 
  - https://github.com/gbif/ipt
    "GitHub - gbif/ipt: GBIF Integrated Publishing Toolkit (IPT)"
+
+ - https://digiconomist.net/bitcoin-energy-consumption
+   "Bitcoin Energy Consumption Index - Digiconomist"
+
+ - https://www.investopedia.com/tech/how-does-bitcoin-mining-work/
+   "How Does Bitcoin Mining Work? | Investopedia"
