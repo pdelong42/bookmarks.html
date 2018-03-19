@@ -286,11 +286,18 @@
  - https://github.com/StarshipEngineer/OpenVPN-Setup
    "GitHub - StarshipEngineer/OpenVPN-Setup: Shell script to set up Raspberry Pi (TM) as an OpenVPN server"
 
+ - http://phdcomics.com/noidea/
+   "We Have No Idea - Now Available!"
+
  - http://enzo-project.org/
    "The Enzo Project"
 
  - https://www.schedmd.com/
    "SchedMD | Slurm Support and Development"
+
+ - https://www.nasa.gov/image-feature/goddard/lro-earthrise-2015
+   "NASA Releases New High-Res Earthrise Image | NASA"
+
  - https://github.com/capsule8/capsule8
    "GitHub - capsule8/capsule8: Capsule8: open-source cloud-native behavioral security monitoring"
 
