@@ -82,5 +82,11 @@
  - http://stackoverflow.com/questions/4493936/could-i-change-my-name-and-surname-in-all-previous-commits
    "Could I change my name and surname in all previous commits?"
 
+ - https://jvns.ca/blog/2017/11/20/groups/
+   "How do groups work on Linux? - Julia Evans"
+
+ - http://www.linuxjournal.com/article/9001?page=0,1
+   "Examining Load Average | Linux Journal"
+   I need to revisit this later, to see if I understand it better
  - https://powercompare.co.uk/bitcoin/
    "Bitcoin Mining Now Consuming More Electricity Than 159 Countries Including Ireland &amp; Most Countries In Africa"
