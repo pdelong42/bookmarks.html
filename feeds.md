@@ -64,6 +64,7 @@ Science and tech:
  - https://twitter.com/astraughnomer
  - https://twitter.com/cmwalla
  - http://redsymbol.net/
+ - https://jvns.ca/
 
 Nerd entertainment:
 

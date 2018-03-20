@@ -279,6 +279,11 @@
  - http://www.nancyhoffmangallery.com/artist/display/61/Concinnitas_Project
    Concinnitas Project
 
+ - http://algorithmtips.org/
+   "Algorithm Tips &#8211; Find tips for stories on algorithms"
+
+ - http://www.cyclebikeapp.com/#/look-up-in-the-sky-more-satellites/
+   "Designs for Android#"
 
  - http://www.pivpn.io/
    "PiVPN: Simplest setup of OpenVPN"
@@ -306,6 +311,12 @@
 
  - https://github.com/oogali/ebs-automatic-nvme-mapping
    "GitHub - oogali/ebs-automatic-nvme-mapping: Automatic mapping of EBS volumes via NVMe block devices to standard block device paths"
+
+ - https://github.com/luugiathuy/amazon-list-scraper
+   "GitHub - luugiathuy/amazon-list-scraper: Scrape items from a public Amazon&#39;s list"
+
+ - https://www.ashedryden.com/blog/contract
+   "Freelance contracts that anyone can understand | ashe dryden"
 
  - https://digiconomist.net/bitcoin-energy-consumption
    "Bitcoin Energy Consumption Index - Digiconomist"
