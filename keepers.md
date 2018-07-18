@@ -91,3 +91,7 @@
 
  - https://powercompare.co.uk/bitcoin/
    "Bitcoin Mining Now Consuming More Electricity Than 159 Countries Including Ireland &amp; Most Countries In Africa"
+
+ - https://elinux.org/RPi_Serial_Connection
+   "RPi Serial Connection - eLinux.org"
+   helpful for setup of serial console on Raspberry Pi

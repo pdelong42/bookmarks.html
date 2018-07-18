@@ -65,6 +65,10 @@ Science and tech:
  - https://twitter.com/cmwalla
  - http://redsymbol.net/
  - https://jvns.ca/
+ - https://cjelupton.wordpress.com/
+
+ - https://khn.org/
+   "Kaiser Health News"
 
 Nerd entertainment:
 
