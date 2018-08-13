@@ -95,3 +95,6 @@
  - https://elinux.org/RPi_Serial_Connection
    "RPi Serial Connection - eLinux.org"
    helpful for setup of serial console on Raspberry Pi
+
+ - http://tritoneco.com/2014/02/21/fix-for-powershell-script-not-digitally-signed/
+   "  Fix for PowerShell Script Not Digitally Signed | Tritone Consultants"

@@ -203,3 +203,15 @@
 
  - https://hoytech.com/vmtouch/
    "Hoytech"
+
+ - https://linker.iecc.com/
+   "Linkers and Loaders"
+
+ - https://www.kernel.org/doc/html/v4.10/gpu/vga-switcheroo.html
+   "VGA Switcheroo &mdash; The Linux Kernel  documentation"
+
+ - https://github.com/dzharii/awesome-elasticsearch
+   "GitHub - dzharii/awesome-elasticsearch: A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!"
+
+ - https://github.com/zevv/lsofgraph
+   "GitHub - zevv/lsofgraph: lsof to graphviz"
