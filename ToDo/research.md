@@ -173,3 +173,33 @@
 
  - https://www.research.ibm.com/ibm-q/
    "Quantum Computing - IBM Q - US"
+
+ - https://web.archive.org/web/20130722193817/https://cs.uwaterloo.ca/~watrous/CS766/
+   "Theory of Quantum Information (course webpage)"
+
+ - https://cs.uwaterloo.ca/~watrous/CS766/
+   "Theory of Quantum Information (course webpage)"
+
+ - https://www.scottaaronson.com/chp/
+   "CHP: CNOT-Hadamard-Phase"
+
+ - https://www.scottaaronson.com/
+   "Scott Aaronson"
+
+ - http://futureplanets.blogspot.com/2015/02/2016-budget-great-policy-document-and.html
+   "Future Planetary Exploration: 2016 Budget: Great Policy Document and A Much Better Budget "
+
+ - https://www.lpi.usra.edu/pss/oct2012/presentations/5_Senske_Europa.pdf
+   ""
+
+ - https://dom.as/2008/02/05/linux-io-schedulers/
+   "I/O schedulers seriously revisited &#8211; domas mituzas"
+
+ - https://dom.as/
+   "domas mituzas"
+
+ - https://utcc.utoronto.ca/~cks/space/blog/
+   " Chris&#39;s Wiki :: blog "
+
+ - https://hoytech.com/vmtouch/
+   "Hoytech"
