@@ -326,3 +326,6 @@
 
  - https://www.investopedia.com/tech/how-does-bitcoin-mining-work/
    "How Does Bitcoin Mining Work? | Investopedia"
+
+ - https://sysdig.com/
+   "Sysdig | The first unified approach to Container Security, Docker Monitoring and Forensics for cloud-native applications"
