@@ -19,6 +19,12 @@ watch:
 
 ToDo:
 
+ - https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process
+   "Gram-Schmidt process - Wikipedia"
+
+ - https://en.wikipedia.org/wiki/SQUID
+   "SQUID - Wikipedia"
+
  - https://www.ibm.com/blogs/research/2018/06/teach-qiskit-winner/
    "Teach Me QISKit: We have a winner!"
 
